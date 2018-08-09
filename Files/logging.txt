@@ -1,0 +1,1693 @@
+[ Info   ] 17:59:03 - [from: run           ] - Starting Kitsu, version 3.0.
+[ Warn   ] 17:59:03 - [from: attach_bot    ] - Empty token.
+[ Debug  ] 17:59:03 - [from: run           ] - Booted in 23 ms...
+[ Info   ] 17:59:42 - [from: run           ] - Starting Kitsu, version 3.0.
+[ Debug  ] 17:59:42 - [from: add_bot       ] - Nuovo bot (569510835) aggiunto al file bots
+[ Debug  ] 17:59:42 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 17:59:42 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 17:59:42 - [from: run           ] - Booted in 77 ms...
+[ Debug  ] 17:59:43 - [from: getter        ] - Starting bot 569510835:AAGfajJMZ52Q9oVSxOqc3CtpjpRoYV43bgo
+[ Debug  ] 17:59:43 - [from: getter        ] - Starting bot 569510835:AAGfajJMZ52Q9oVSxOqc3CtpjpRoYV43bgo
+[ Info   ] 17:59:56 - [from: run           ] - Starting Kitsu, version 3.0.
+[ Debug  ] 17:59:56 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 17:59:56 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 17:59:56 - [from: run           ] - Booted in 26 ms...
+[ Debug  ] 17:59:56 - [from: getter        ] - Starting bot 569510835:AAGfajJMZ52Q9oVSxOqc3CtpjpRoYV43bgo
+[ Info   ] 18:01:11 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 18:01:11 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 18:01:11 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 18:01:12 - [from: getter        ] - Starting bot 569510835:AAGfajJMZ52Q9oVSxOqc3CtpjpRoYV43bgo
+[ Info   ] 18:04:55 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 18:04:55 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 18:04:55 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 18:04:56 - [from: getter        ] - Starting bot 569510835:AAGfajJMZ52Q9oVSxOqc3CtpjpRoYV43bgo
+[ Info   ] 20:59:10 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Warn   ] 20:59:10 - [from: attach_bot    ] - Empty token.
+[ Info   ] 21:01:22 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Warn   ] 21:01:22 - [from: attach_bot    ] - Empty token.
+[ Info   ] 21:06:28 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Warn   ] 21:06:28 - [from: attach_bot    ] - Empty token.
+[ Info   ] 21:12:20 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Warn   ] 21:12:20 - [from: attach_bot    ] - Empty token.
+[ Info   ] 21:12:38 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Warn   ] 21:12:38 - [from: attach_bot    ] - Empty token.
+[ Info   ] 21:13:28 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Warn   ] 21:13:28 - [from: attach_bot    ] - Empty token.
+[ Debug  ] 21:13:28 - [from: add_bot       ] - Nuovo bot (495913948) aggiunto al file bots
+[ Info   ] 21:15:56 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Warn   ] 21:15:56 - [from: attach_bot    ] - Empty token.
+[ Debug  ] 21:15:56 - [from: add_bot       ] - Nuovo bot (495913948) aggiunto al file bots
+[ Debug  ] 21:15:56 - [from: get_main_bot_token] - First boot needed to configure, please restart the script.
+[ Info   ] 21:16:11 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Warn   ] 21:16:11 - [from: attach_bot    ] - Empty token.
+[ Debug  ] 21:16:11 - [from: add_bot       ] - Nuovo bot (495913948) aggiunto al file bots
+[ Debug  ] 21:16:11 - [from: get_main_bot_token] - First boot needed to configure, please restart the script.
+[ Info   ] 21:16:14 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 21:16:14 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 21:16:14 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 21:16:15 - [from: getter        ] - Starting bot 495913948:AAEbXsYCZVqm1TsDHei1jHg8bYEzb8KtbkM
+[ Info   ] 21:18:19 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 21:18:19 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 21:18:19 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 21:18:20 - [from: getter        ] - Starting bot 495913948:AAEbXsYCZVqm1TsDHei1jHg8bYEzb8KtbkM
+[ Info   ] 21:19:19 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 21:19:19 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 21:19:19 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 21:19:20 - [from: getter        ] - Starting bot 495913948:AAEbXsYCZVqm1TsDHei1jHg8bYEzb8KtbkM
+[ Info   ] 21:19:50 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 21:19:50 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 21:19:50 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 21:19:51 - [from: getter        ] - Starting bot 495913948:AAEbXsYCZVqm1TsDHei1jHg8bYEzb8KtbkM
+[ Debug  ] 21:19:52 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 21:19:52 - [from: command_reader] - You're master.
+[ Debug  ] 21:48:28 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 21:48:28 - [from: command_reader] - You're master.
+[ Debug  ] 22:20:21 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 22:20:21 - [from: command_reader] - You're master.
+[ Info   ] 12:08:24 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Warn   ] 12:08:24 - [from: attach_bot    ] - Empty token.
+[ Debug  ] 12:08:24 - [from: add_bot       ] - Nuovo bot (668408714) aggiunto al file bots
+[ Debug  ] 12:08:24 - [from: get_main_bot_token] - First boot needed to configure, please restart the script.
+[ Info   ] 12:08:44 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:08:44 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:08:44 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:09:13 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:09:13 - [from: send          ] - 668408714 <- 535017415 -> []
+[ Debug  ] 12:09:33 - [from: command_reader] - I'm Kitsu.
+[ Info   ] 12:11:18 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:11:18 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:11:18 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:11:24 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:11:26 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:11:35 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:12:02 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:12:02 - [from: command_reader] - You're master.
+[ Action ] 12:12:04 - [from: send          ] - 668408714 <- 535017415 -> [saluti]
+[ Debug  ] 12:12:13 - [from: command_reader] - I'm Kitsu.
+[ Info   ] 12:14:26 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:14:26 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:14:26 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:14:29 - [from: command_reader] - I'm Kitsu.
+[ Info   ] 12:15:10 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:15:10 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:15:10 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:15:14 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:15:14 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Info   ] 12:16:19 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:16:19 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:16:19 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:16:31 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:16:32 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 12:16:48 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:16:48 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Info   ] 12:30:13 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:30:13 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:30:13 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:30:20 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:30:27 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:30:28 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 12:30:32 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:30:32 - [from: command_reader] - You're master.
+[ Debug  ] 12:30:34 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:30:34 - [from: command_reader] - You're master.
+[ Debug  ] 12:30:42 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:30:42 - [from: command_reader] - You're master.
+[ Debug  ] 12:30:53 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:30:56 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:30:56 - [from: command_reader] - You're master.
+[ Info   ] 12:35:56 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:35:56 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:35:56 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:36:07 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:36:08 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 12:36:09 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:36:11 - [from: add_bot       ] - Nuovo bot (597857131) aggiunto al file bots
+[ Action ] 12:37:00 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Info   ] 12:40:42 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:40:42 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:40:42 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:40:47 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:40:47 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 12:40:51 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:40:51 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Debug  ] 12:41:43 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:41:43 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Info   ] 12:42:02 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:42:02 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:42:02 - [from: attach_bot    ] - Finished iterating tokens!
+[ Warn   ] 12:42:08 - [from: __init__      ] - Qualcosa è andato storto: Expecting value: line 2 column 15 (char 16)
+[ Info   ] 12:42:55 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:42:55 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:42:55 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:42:59 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:43:00 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 12:43:03 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:43:03 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Action ] 12:43:21 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Debug  ] 12:43:28 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:43:30 - [from: send          ] - 668408714 <- 535017415 -> [None]
+[ Action ] 12:43:32 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 12:43:47 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 12:43:54 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Debug  ] 12:43:54 - [from: elimina_bot   ] - Elimino il bot 597857131 di 535017415
+[ Info   ] 12:43:54 - [from: detach_bot    ] - Bot with 597857131:AAHSGIcmBw2R50yjSlUWWKOU7KTi90aw4SU token stopped.
+[ Debug  ] 12:43:54 - [from: delete_bot    ] - File bots scritto
+[ Action ] 12:43:55 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Debug  ] 12:44:03 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:44:03 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 12:44:06 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:44:06 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Info   ] 12:44:48 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:44:48 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:44:48 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:44:51 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:44:51 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 12:44:55 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:44:55 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Info   ] 12:45:51 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:45:51 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:45:51 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:45:53 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:45:53 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 12:45:58 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:45:58 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Debug  ] 12:47:31 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:47:31 - [from: command_reader] - You're master.
+[ Debug  ] 12:49:03 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:49:04 - [from: send          ] - 668408714 <- 665884108 -> []
+[ Debug  ] 12:49:06 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:49:13 - [from: command_reader] - I'm Kitsu.
+[ Info   ] 12:51:25 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:51:27 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:51:27 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:51:31 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:51:32 - [from: command_reader] - I'm Kitsu.
+[ Info   ] 12:52:57 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:52:57 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:52:57 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 12:53:00 - [from: command_reader] - I'm Kitsu.
+[ Action ] 12:53:00 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: Savioom ID: 665884108 'newbot senza chiave'
+[ Debug  ] 12:53:59 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:54:02 - [from: newbot        ] - L'utente non ha avviato il proprio bot, o c'è qualche problema (Bad Request: chat not found :()
+[ Debug  ] 12:54:30 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 12:54:31 - [from: add_bot       ] - Nuovo bot (673691499) aggiunto al file bots
+[ Action ] 12:55:20 - [from: send          ] - 673691499 <- 665884108 -> [None]
+[ Action ] 12:55:23 - [from: send          ] - 673691499 <- 665884108 -> [None]
+[ Action ] 12:55:29 - [from: send          ] - 673691499 <- 665884108 -> [None]
+[ Debug  ] 12:55:29 - [from: elimina_bot   ] - Elimino il bot 673691499 di 665884108
+[ Info   ] 12:55:29 - [from: detach_bot    ] - Bot with 673691499:AAGP9WyBgqTNwiiY6Egy2KSuYbx24qgi0Ck token stopped.
+[ Debug  ] 12:55:29 - [from: delete_bot    ] - File bots scritto
+[ Action ] 12:55:29 - [from: send          ] - 673691499 <- 665884108 -> [None]
+[ Info   ] 13:19:58 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 13:19:58 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 13:19:58 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 13:20:48 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:20:49 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Info   ] 13:21:23 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 13:21:23 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 13:21:23 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 13:21:30 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:21:30 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Info   ] 13:23:21 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 13:23:21 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 13:23:21 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 13:23:27 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:23:27 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Debug  ] 13:23:33 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:23:33 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Info   ] 13:24:42 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 13:24:42 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 13:24:42 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 13:24:49 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 13:24:49 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 13:24:49 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 13:24:55 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:24:56 - [from: add_bot       ] - Nuovo bot (597857131) aggiunto al file bots
+[ Action ] 13:25:51 - [from: send          ] - 597857131 <- 535017415 -> [rip]
+[ Action ] 13:26:08 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 13:26:10 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 13:26:11 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 13:26:13 - [from: send          ] - 597857131 <- 535017415 -> [rip]
+[ Action ] 13:26:14 - [from: send          ] - 597857131 <- 535017415 -> [rip]
+[ Action ] 13:30:01 - [from: send          ] - 597857131 <- 535017415 -> [rip]
+[ Debug  ] 13:31:05 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:31:06 - [from: send          ] - 668408714 <- 439144659 -> []
+[ Debug  ] 13:31:14 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:31:26 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:31:27 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:32:23 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Debug  ] 13:33:04 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:33:04 - [from: command_reader] - You're master.
+[ Info   ] 13:33:04 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 13:33:04 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 13:33:04 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 13:33:13 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:33:13 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: lennykawaii21 ID: 439144659 'newbot senza chiave'
+[ Debug  ] 13:33:35 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:33:35 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: lennykawaii21 ID: 439144659 'newbot chiave errata'
+[ Debug  ] 13:35:22 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:35:22 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: lennykawaii21 ID: 439144659 'newbot chiave errata'
+[ Action ] 13:36:36 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 13:37:13 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Debug  ] 13:37:32 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:37:33 - [from: add_bot       ] - Nuovo bot (600169672) aggiunto al file bots
+[ Action ] 13:37:50 - [from: send          ] - 600169672 <- 535017415 -> [None]
+[ Action ] 13:37:51 - [from: send          ] - 600169672 <- 535017415 -> [start]
+[ Action ] 13:38:15 - [from: send          ] - 600169672 <- 535017415 -> [None]
+[ Action ] 13:38:17 - [from: send          ] - 600169672 <- 535017415 -> [None]
+[ Action ] 13:39:32 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 13:39:37 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 13:42:54 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 13:42:59 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 13:43:00 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 13:43:55 - [from: send          ] - 597857131 <- 535017415 -> [rip]
+[ Action ] 13:47:11 - [from: send          ] - 600169672 <- 439144659 -> [rip]
+[ Action ] 13:47:12 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Action ] 13:47:23 - [from: send          ] - 600169672 <- 535017415 -> [rip]
+[ Action ] 13:47:35 - [from: send          ] - 600169672 <- 535017415 -> [rip]
+[ Action ] 13:48:17 - [from: send          ] - 600169672 <- 439144659 -> [rip]
+[ Action ] 13:48:17 - [from: send          ] - 600169672 <- 535017415 -> [rip]
+[ Action ] 13:48:23 - [from: send          ] - 600169672 <- 439144659 -> [rip]
+[ Action ] 13:48:28 - [from: send          ] - 600169672 <- 439144659 -> [rip]
+[ Action ] 13:48:28 - [from: list_risps    ] - 600169672 <- 535017415 -> [list_risposte]
+[ Action ] 13:48:30 - [from: send          ] - 600169672 <- 439144659 -> [rip]
+[ Action ] 13:48:33 - [from: send          ] - 600169672 <- 439144659 -> [rip]
+[ Action ] 13:50:30 - [from: send          ] - 600169672 <- 535017415 -> [rip]
+[ Action ] 13:50:33 - [from: send          ] - 600169672 <- 535017415 -> [rip]
+[ Action ] 13:50:35 - [from: send          ] - 600169672 <- 535017415 -> [rip]
+[ Warn   ] 13:50:35 - [from: antispam      ] - 600169672 <- 535017415 -> [spam 1]
+[ Action ] 13:50:49 - [from: send          ] - 600169672 <- 535017415 -> [rip]
+[ Action ] 13:51:00 - [from: list_risps    ] - 600169672 <- 535017415 -> [list_risposte]
+[ Action ] 13:51:40 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 13:51:44 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Action ] 13:52:57 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 13:53:00 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 13:53:00 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 13:53:33 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Action ] 13:53:37 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 13:54:03 - [from: send          ] - 597857131 <- 220158070 -> [saluti]
+[ Action ] 13:54:57 - [from: send          ] - 597857131 <- 535017415 -> [wtf]
+[ Action ] 13:54:59 - [from: send          ] - 597857131 <- 535017415 -> [wtf]
+[ Action ] 13:56:28 - [from: send          ] - 597857131 <- 535017415 -> [amare]
+[ Action ] 13:56:40 - [from: send          ] - 600169672 <- 535017415 -> [rip]
+[ Action ] 13:57:51 - [from: send          ] - 597857131 <- 439144659 -> [None]
+[ Action ] 13:57:52 - [from: send          ] - 597857131 <- 439144659 -> [start]
+[ Action ] 13:58:07 - [from: send          ] - 597857131 <- 439144659 -> [saluti]
+[ Debug  ] 13:58:44 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:58:45 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:58:45 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 13:59:40 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:59:40 - [from: send          ] - 668408714 <- 220158070 -> []
+[ Debug  ] 13:59:44 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:59:56 - [from: command_reader] - I'm Kitsu.
+[ Action ] 14:01:17 - [from: send          ] - 597857131 <- 535017415 -> [speak english]
+[ Action ] 14:02:55 - [from: send          ] - 597857131 <- 535017415 -> [ita]
+[ Action ] 14:04:21 - [from: list_risps    ] - 597857131 <- 535017415 -> [list_risposte]
+[ Action ] 14:08:17 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Action ] 14:08:55 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Action ] 14:14:34 - [from: send          ] - 597857131 <- 535017415 -> [meteo]
+[ Action ] 14:17:22 - [from: send          ] - 597857131 <- 535017415 -> [meteo]
+[ Action ] 14:19:41 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 14:19:45 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 14:19:46 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 14:22:16 - [from: send          ] - 597857131 <- 535017415 -> [gen_answ]
+[ Action ] 14:25:03 - [from: send          ] - 597857131 <- 535017415 -> [meteo]
+[ Action ] 14:25:42 - [from: send          ] - 597857131 <- 535017415 -> [meteo]
+[ Debug  ] 14:25:55 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:25:55 - [from: command_reader] - You're master.
+[ Debug  ] 14:26:33 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:26:33 - [from: command_reader] - You're master.
+[ Debug  ] 14:26:39 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:26:39 - [from: command_reader] - You're master.
+[ Debug  ] 14:26:44 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:26:44 - [from: command_reader] - You're master.
+[ Debug  ] 14:26:52 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:26:52 - [from: command_reader] - You're master.
+[ Debug  ] 14:27:17 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:27:17 - [from: command_reader] - You're master.
+[ Debug  ] 14:31:20 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:31:20 - [from: command_reader] - You're master.
+[ Debug  ] 14:31:28 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:31:28 - [from: command_reader] - You're master.
+[ Info   ] 14:34:37 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:34:37 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:34:37 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 14:34:39 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:34:39 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:34:39 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 14:34:46 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:34:47 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:34:47 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 14:35:34 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:35:34 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:35:34 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 14:36:26 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:36:26 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:36:26 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:39:12 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Action ] 14:39:21 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 14:39:23 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 14:39:50 - [from: list_risps    ] - 597857131 <- 535017415 -> [list_risposte]
+[ Debug  ] 14:51:11 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:51:11 - [from: command_reader] - You're master.
+[ Action ] 14:51:12 - [from: send          ] - 668408714 <- 535017415 -> [None]
+[ Debug  ] 14:51:26 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:51:26 - [from: command_reader] - You're master.
+[ Action ] 14:51:27 - [from: send          ] - 668408714 <- 535017415 -> [comando sconosciuto]
+[ Debug  ] 14:51:28 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:51:28 - [from: command_reader] - You're master.
+[ Debug  ] 14:51:30 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:51:30 - [from: command_reader] - You're master.
+[ Action ] 14:51:30 - [from: send          ] - 668408714 <- 535017415 -> [comando sconosciuto]
+[ Debug  ] 14:51:31 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:51:31 - [from: command_reader] - You're master.
+[ Debug  ] 14:51:38 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:51:38 - [from: command_reader] - You're master.
+[ Action ] 14:51:39 - [from: send          ] - 668408714 <- 535017415 -> [comando sconosciuto]
+[ Debug  ] 14:51:46 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:51:46 - [from: command_reader] - You're master.
+[ Debug  ] 14:51:54 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:51:54 - [from: command_reader] - You're master.
+[ Debug  ] 14:52:01 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:52:01 - [from: command_reader] - You're master.
+[ Info   ] 14:52:02 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:52:02 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:52:02 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:54:09 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Debug  ] 14:55:59 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:55:59 - [from: command_reader] - You're master.
+[ Info   ] 14:56:00 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:56:00 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:56:00 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:56:02 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Action ] 14:57:31 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Action ] 14:59:05 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 14:59:27 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Info   ] 14:59:34 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:59:34 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:59:34 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:59:37 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Debug  ] 14:59:43 - [from: command_reader] - I'm Kitsu.
+[ Action ] 15:03:08 - [from: send          ] - 597857131 <- 0 -> [chiamata]
+[ Action ] 15:03:54 - [from: send          ] - 597857131 <- 0 -> [chiamata]
+[ Warn   ] 15:03:54 - [from: antispam      ] - 597857131 <- 0 -> [spam 1]
+[ Action ] 15:03:55 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 15:04:14 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 15:04:37 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Warn   ] 15:04:37 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 1]
+[ Warn   ] 15:04:38 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 2]
+[ Warn   ] 15:04:38 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 3]
+[ Warn   ] 15:04:38 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 4]
+[ Warn   ] 15:04:38 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 5]
+[ Warn   ] 15:04:38 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 6]
+[ Warn   ] 15:04:38 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 7]
+[ Warn   ] 15:04:38 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 8]
+[ Warn   ] 15:04:38 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 9]
+[ Action ] 15:05:23 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 15:05:26 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 15:05:26 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 15:05:29 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 15:09:34 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Debug  ] 15:10:32 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 15:10:32 - [from: command_reader] - You're master.
+[ Info   ] 15:10:33 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 15:10:33 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 15:10:33 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 15:10:40 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Action ] 15:12:17 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 15:12:23 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 15:12:24 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 15:12:25 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Action ] 15:24:42 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 15:35:30 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 15:35:35 - [from: send          ] - 597857131 <- 535017415 -> [gen_answ]
+[ Action ] 16:01:12 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 16:25:10 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 16:26:39 - [from: send          ] - 597857131 <- 535017415 -> [ping]
+[ Action ] 16:38:13 - [from: send          ] - 597857131 <- 513798357 -> [saluti]
+[ Action ] 16:38:37 - [from: send          ] - 597857131 <- 535017415 -> [ping]
+[ Action ] 16:55:03 - [from: send          ] - 597857131 <- 535017415 -> [gg]
+[ Action ] 17:02:20 - [from: send          ] - 597857131 <- 220158070 -> [ye+]
+[ Action ] 17:02:42 - [from: send          ] - 597857131 <- 220158070 -> [gen_answ]
+[ Action ] 17:02:48 - [from: send          ] - 597857131 <- 220158070 -> [saluti]
+[ Action ] 17:04:18 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Debug  ] 17:06:17 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 17:06:17 - [from: command_reader] - You're master.
+[ Info   ] 17:06:18 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 17:06:18 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 17:06:18 - [from: attach_bot    ] - Finished iterating tokens!
+[ Warn   ] 17:06:27 - [from: __init__      ] - Qualcosa è andato storto: Non autorizzato.
+[ Action ] 18:56:50 - [from: send          ] - 597857131 <- 535017415 -> [scuse]
+[ Action ] 18:57:03 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 18:57:07 - [from: send          ] - 597857131 <- 535017415 -> [scuse]
+[ Action ] 19:02:24 - [from: send          ] - 597857131 <- 535017415 -> [ye+]
+[ Action ] 19:08:13 - [from: send          ] - 597857131 <- 535017415 -> [pizza]
+[ Action ] 19:08:16 - [from: send          ] - 597857131 <- 220158070 -> [ye+]
+[ Action ] 19:08:23 - [from: send          ] - 597857131 <- 220158070 -> [amare]
+[ Action ] 19:11:33 - [from: list_risps    ] - 597857131 <- 535017415 -> [list_risposte]
+[ Action ] 19:12:30 - [from: send          ] - 597857131 <- 535017415 -> [chiamata]
+[ Action ] 19:12:40 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Action ] 19:13:01 - [from: send          ] - 597857131 <- 390083144 -> [insulti]
+[ Action ] 19:13:04 - [from: list_risps    ] - 597857131 <- 535017415 -> [list_risposte]
+[ Action ] 19:13:08 - [from: send          ] - 597857131 <- 535017415 -> [pizza]
+[ Action ] 19:14:32 - [from: send          ] - 597857131 <- 535017415 -> [pizza]
+[ Action ] 19:14:33 - [from: send          ] - 597857131 <- 535017415 -> [pizza]
+[ Action ] 19:14:34 - [from: send          ] - 597857131 <- 535017415 -> [gen_answ]
+[ Action ] 19:14:36 - [from: send          ] - 597857131 <- 220158070 -> [saluti]
+[ Action ] 19:15:40 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:15:43 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:15:44 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:16:04 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:16:07 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:16:07 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:16:50 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:16:55 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:17:01 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:17:03 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:17:04 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 19:18:08 - [from: send          ] - 597857131 <- 535017415 -> [feedback]
+[ Action ] 19:18:19 - [from: send          ] - 597857131 <- 220158070 -> [feedback]
+[ Action ] 19:19:23 - [from: send          ] - 597857131 <- 220158070 -> [insulti]
+[ Debug  ] 19:19:49 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 19:19:49 - [from: command_reader] - You're master.
+[ Info   ] 19:19:50 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 19:19:50 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 19:19:50 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 19:21:05 - [from: command_reader] - I'm Kitsu.
+[ Action ] 19:21:06 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: emjlix ID: 220158070 'newbot senza chiave'
+[ Debug  ] 19:21:13 - [from: command_reader] - I'm Kitsu.
+[ Action ] 19:21:21 - [from: send          ] - 668408714 <- 220158070 -> [gen_answ]
+[ Debug  ] 19:24:15 - [from: command_reader] - I'm Kitsu.
+[ Action ] 19:24:15 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: emjlix ID: 220158070 'newbot chiave errata'
+[ Debug  ] 19:24:40 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 19:24:41 - [from: newbot        ] - L'utente non ha avviato il proprio bot, o c'è qualche problema (Bad Request: chat not found :()
+[ Debug  ] 19:25:20 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 19:25:20 - [from: add_bot       ] - Nuovo bot (657660561) aggiunto al file bots
+[ Action ] 19:27:52 - [from: send          ] - 657660561 <- 535017415 -> [None]
+[ Action ] 19:27:53 - [from: send          ] - 657660561 <- 535017415 -> [start]
+[ Action ] 19:31:20 - [from: send          ] - 657660561 <- 220158070 -> [saluti]
+[ Action ] 19:38:08 - [from: send          ] - 657660561 <- 535017415 -> [saluti]
+[ Action ] 19:38:13 - [from: send          ] - 657660561 <- 535017415 -> [saluti]
+[ Action ] 19:38:17 - [from: send          ] - 597857131 <- 220158070 -> [ye+]
+[ Action ] 19:39:28 - [from: send          ] - 657660561 <- 535017415 -> [insulti]
+[ Action ] 19:42:48 - [from: send          ] - 657660561 <- 220158070 -> [saluti]
+[ Action ] 19:42:58 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 19:43:30 - [from: list_risps    ] - 657660561 <- 535017415 -> [list_risposte]
+[ Action ] 19:44:04 - [from: send          ] - 657660561 <- 220158070 -> [amare]
+[ Action ] 19:44:56 - [from: send          ] - 657660561 <- 390083144 -> [amare]
+[ Action ] 19:47:31 - [from: send          ] - 597857131 <- 220158070 -> [rip]
+[ Action ] 19:47:32 - [from: send          ] - 657660561 <- 535017415 -> [insulti]
+[ Action ] 19:49:01 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 19:51:11 - [from: send          ] - 657660561 <- 220158070 -> [amare]
+[ Action ] 19:51:58 - [from: send          ] - 597857131 <- 513798357 -> [rip]
+[ Action ] 19:52:49 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 19:53:19 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 19:54:01 - [from: send          ] - 597857131 <- 535017415 -> [ye+]
+[ Action ] 19:56:34 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 19:56:48 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 19:56:48 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 19:57:05 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 19:57:06 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 19:57:10 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 19:58:08 - [from: send          ] - 657660561 <- 535017415 -> [saluti]
+[ Action ] 19:58:09 - [from: send          ] - 657660561 <- 535017415 -> [saluti]
+[ Action ] 19:58:10 - [from: send          ] - 657660561 <- 535017415 -> [saluti]
+[ Action ] 19:58:40 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 19:59:53 - [from: send          ] - 597857131 <- 535017415 -> [rip]
+[ Action ] 20:00:11 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 20:00:15 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 20:00:19 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 20:00:20 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 20:08:38 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Action ] 20:08:43 - [from: send          ] - 597857131 <- 535017415 -> [None]
+[ Info   ] 20:08:43 - [from: detach_bot    ] - Bot with 597857131:AAHSGIcmBw2R50yjSlUWWKOU7KTi90aw4SU token stopped.
+[ Debug  ] 20:09:04 - [from: command_reader] - I'm Kitsu.
+[ Info   ] 20:09:13 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 20:09:13 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 20:09:13 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 20:09:18 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Info   ] 20:09:41 - [from: detach_bot    ] - Bot with 657660561:AAG9Ck_AFr_YC5FlQ_KwZwWntzoCsU5KGKQ token stopped.
+[ Info   ] 20:09:41 - [from: detach_bot    ] - Bot with 597857131:AAHSGIcmBw2R50yjSlUWWKOU7KTi90aw4SU token stopped.
+[ Action ] 20:11:56 - [from: send          ] - 597857131 <- 535017415 -> [chiamata]
+[ Action ] 20:13:48 - [from: send          ] - 597857131 <- 535017415 -> [start]
+[ Action ] 20:14:39 - [from: send          ] - 597857131 <- 273867626 -> [None]
+[ Action ] 20:14:40 - [from: send          ] - 597857131 <- 273867626 -> [start]
+[ Debug  ] 20:14:48 - [from: command_reader] - I'm Kitsu.
+[ Action ] 20:14:49 - [from: send          ] - 668408714 <- 273867626 -> []
+[ Debug  ] 20:14:51 - [from: command_reader] - I'm Kitsu.
+[ Action ] 20:16:38 - [from: send          ] - 657660561 <- 220158070 -> [saluti]
+[ Action ] 20:17:16 - [from: send          ] - 597857131 <- 273867626 -> [saluti]
+[ Action ] 20:17:16 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 20:17:21 - [from: send          ] - 657660561 <- 535017415 -> [saluti]
+[ Action ] 20:17:23 - [from: send          ] - 597857131 <- 273867626 -> [saluti]
+[ Action ] 20:18:18 - [from: send          ] - 657660561 <- 513798357 -> [None]
+[ Action ] 20:18:19 - [from: send          ] - 657660561 <- 513798357 -> [start]
+[ Action ] 20:19:36 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Debug  ] 20:19:51 - [from: command_reader] - I'm Kitsu.
+[ Action ] 20:21:01 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 20:21:25 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 20:23:02 - [from: send          ] - 657660561 <- 220158070 -> [kenny ti amo]
+[ Debug  ] 20:23:20 - [from: command_reader] - I'm Kitsu.
+[ Action ] 20:25:07 - [from: send          ] - 657660561 <- 220158070 -> [bufu]
+[ Action ] 20:29:00 - [from: send          ] - 657660561 <- 220158070 -> [xd]
+[ Action ] 20:29:07 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 20:32:09 - [from: send          ] - 657660561 <- 220158070 -> [scatola è un...?]
+[ Action ] 20:35:45 - [from: send          ] - 657660561 <- 220158070 -> [nebro]
+[ Action ] 20:38:18 - [from: send          ] - 597857131 <- 513798357 -> [rip]
+[ Action ] 20:54:51 - [from: send          ] - 657660561 <- 220158070 -> [diomerda]
+[ Action ] 20:55:26 - [from: send          ] - 657660561 <- 535017415 -> [scala è un...?]
+[ Action ] 20:55:43 - [from: send          ] - 657660561 <- 513798357 -> [nebro]
+[ Action ] 20:55:54 - [from: send          ] - 657660561 <- 535017415 -> [scatola è un...?]
+[ Action ] 20:55:57 - [from: send          ] - 657660561 <- 513798357 -> [diomerda]
+[ Action ] 20:58:48 - [from: send          ] - 657660561 <- 535017415 -> [diomerda]
+[ Action ] 20:58:54 - [from: send          ] - 657660561 <- 535017415 -> [diomerda]
+[ Action ] 20:59:04 - [from: send          ] - 657660561 <- 220158070 -> [diomerda]
+[ Action ] 20:59:26 - [from: send          ] - 657660561 <- 535017415 -> [xd]
+[ Action ] 20:59:45 - [from: send          ] - 657660561 <- 220158070 -> [diomerda]
+[ Action ] 21:01:49 - [from: send          ] - 657660561 <- 220158070 -> [android o ios?]
+[ Debug  ] 21:02:29 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 21:02:29 - [from: command_reader] - You're master.
+[ Debug  ] 21:02:34 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 21:02:34 - [from: command_reader] - You're master.
+[ Debug  ] 21:02:34 - [from: bcast         ] - Broadcast utenti avviato da kfrahh ID 535017415
+[ Action ] 21:02:35 - [from: send          ] - 668408714 <- 535017415 -> [None]
+[ Action ] 21:03:14 - [from: send          ] - 657660561 <- 220158070 -> [saluti]
+[ Action ] 21:07:09 - [from: send          ] - 657660561 <- 220158070 -> [abbracciami]
+[ Action ] 21:10:49 - [from: send          ] - 657660561 <- 220158070 -> [send nudes]
+[ Action ] 21:10:55 - [from: send          ] - 657660561 <- 220158070 -> [send nudes]
+[ Action ] 21:14:26 - [from: send          ] - 657660561 <- 220158070 -> [send nudes]
+[ Action ] 21:14:36 - [from: send          ] - 657660561 <- 220158070 -> [send nudes]
+[ Action ] 21:14:54 - [from: send          ] - 657660561 <- 220158070 -> [amare]
+[ Debug  ] 21:29:15 - [from: command_reader] - I'm Kitsu.
+[ Action ] 21:29:16 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 21:29:17 - [from: command_reader] - I'm Kitsu.
+[ Action ] 21:29:18 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Debug  ] 21:29:21 - [from: command_reader] - I'm Kitsu.
+[ Action ] 21:29:21 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Action ] 21:40:57 - [from: send          ] - 657660561 <- 220158070 -> [kenny ti amo]
+[ Action ] 21:48:06 - [from: list_risps    ] - 597857131 <- 535017415 -> [list_risposte]
+[ Action ] 22:14:12 - [from: send          ] - 657660561 <- 220158070 -> [alexa play despacito]
+[ Action ] 22:16:29 - [from: send          ] - 657660561 <- 220158070 -> [tua zia è morta]
+[ Action ] 22:17:56 - [from: send          ] - 657660561 <- 220158070 -> [no vabe epico]
+[ Info   ] 22:29:58 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 22:29:58 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 22:29:58 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 22:31:32 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 22:31:51 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 22:33:18 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 22:33:35 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 22:34:26 - [from: send          ] - 657660561 <- 220158070 -> [chiamata]
+[ Action ] 22:34:41 - [from: send          ] - 657660561 <- 220158070 -> [chiamata]
+[ Action ] 22:34:47 - [from: send          ] - 657660561 <- 220158070 -> [chiamata]
+[ Action ] 22:37:12 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 22:41:48 - [from: send          ] - 657660561 <- 220158070 -> [ciao troietta]
+[ Action ] 22:41:55 - [from: send          ] - 597857131 <- 220158070 -> [ye+]
+[ Action ] 22:45:25 - [from: send          ] - 597857131 <- 220158070 -> [saluti]
+[ Action ] 22:45:35 - [from: send          ] - 657660561 <- 220158070 -> [saluti]
+[ Action ] 22:45:40 - [from: send          ] - 657660561 <- 220158070 -> [chiamata]
+[ Action ] 22:46:43 - [from: send          ] - 657660561 <- 220158070 -> [come va?]
+[ Action ] 22:56:09 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 22:56:36 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 22:57:18 - [from: send          ] - 657660561 <- 535017415 -> [xd]
+[ Action ] 22:57:31 - [from: send          ] - 657660561 <- 535017415 -> [xd]
+[ Action ] 22:57:35 - [from: send          ] - 657660561 <- 535017415 -> [xd]
+[ Action ] 23:15:07 - [from: send          ] - 657660561 <- 220158070 -> [sborra]
+[ Action ] 23:20:20 - [from: send          ] - 657660561 <- 220158070 -> [che musica ascolti]
+[ Action ] 23:21:49 - [from: send          ] - 657660561 <- 535017415 -> [None]
+[ Action ] 23:21:49 - [from: send          ] - 657660561 <- 535017415 -> [None]
+[ Action ] 23:22:05 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 23:25:20 - [from: send          ] - 657660561 <- 220158070 -> [sborra]
+[ Action ] 23:26:45 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 23:27:04 - [from: send          ] - 657660561 <- 220158070 -> [kenny ti amo]
+[ Action ] 23:27:11 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 23:27:34 - [from: send          ] - 657660561 <- 220158070 -> [insulti]
+[ Action ] 23:27:34 - [from: send          ] - 657660561 <- 513798357 -> [nebro]
+[ Action ] 23:27:52 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 23:28:36 - [from: send          ] - 657660561 <- 220158070 -> [ringraziamenti]
+[ Action ] 23:29:14 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 23:29:14 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Action ] 23:29:20 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 23:30:26 - [from: send          ] - 657660561 <- 220158070 -> [saluti]
+[ Action ] 23:30:35 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 23:31:13 - [from: send          ] - 657660561 <- 513798357 -> [chiamata]
+[ Action ] 23:31:21 - [from: send          ] - 657660561 <- 535017415 -> [None]
+[ Action ] 23:31:41 - [from: send          ] - 657660561 <- 220158070 -> [yuki resterà sempre nei nostri cuori.]
+[ Action ] 23:31:53 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 23:31:56 - [from: send          ] - 657660561 <- 220158070 -> [sborra]
+[ Action ] 23:33:03 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 23:33:33 - [from: send          ] - 657660561 <- 220158070 -> [bene]
+[ Action ] 23:33:44 - [from: send          ] - 657660561 <- 513798357 -> [bene]
+[ Action ] 23:33:49 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 23:33:58 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 23:34:36 - [from: send          ] - 657660561 <- 220158070 -> [cavalli]
+[ Action ] 23:34:41 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 23:35:06 - [from: send          ] - 657660561 <- 513798357 -> [chiamata]
+[ Action ] 23:35:13 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 23:35:22 - [from: send          ] - 657660561 <- 220158070 -> [insulti]
+[ Action ] 23:35:27 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 23:35:29 - [from: send          ] - 657660561 <- 535017415 -> [start]
+[ Action ] 23:35:31 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 23:35:37 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 23:35:45 - [from: send          ] - 657660561 <- 339129762 -> [start]
+[ Debug  ] 23:35:54 - [from: command_reader] - I'm Kitsu.
+[ Action ] 23:35:55 - [from: send          ] - 668408714 <- 513798357 -> []
+[ Action ] 23:36:29 - [from: send          ] - 657660561 <- 220158070 -> [kenny ti amo]
+[ Action ] 23:37:19 - [from: send          ] - 657660561 <- 220158070 -> [saluti]
+[ Action ] 23:37:24 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 23:37:28 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 23:37:31 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 23:37:38 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 23:37:48 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 23:37:49 - [from: send          ] - 657660561 <- 500695552 -> [None]
+[ Action ] 23:37:50 - [from: send          ] - 657660561 <- 500695552 -> [start]
+[ Action ] 23:38:10 - [from: list_risps    ] - 657660561 <- 535017415 -> [list_risposte]
+[ Action ] 23:39:19 - [from: send          ] - 657660561 <- 535017415 -> [cpu]
+[ Action ] 23:40:09 - [from: send          ] - 657660561 <- 513798357 -> [nebro]
+[ Action ] 23:40:33 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 23:40:48 - [from: send          ] - 657660561 <- 535017415 -> [cpu]
+[ Action ] 23:41:13 - [from: send          ] - 657660561 <- 220158070 -> [flavio è..?]
+[ Action ] 23:41:40 - [from: send          ] - 657660561 <- 390083144 -> [gen_answ]
+[ Action ] 23:42:06 - [from: send          ] - 657660561 <- 220158070 -> [insulti]
+[ Action ] 23:42:23 - [from: send          ] - 657660561 <- 500695552 -> [insulti]
+[ Action ] 23:48:17 - [from: send          ] - 657660561 <- 220158070 -> [diomerda]
+[ Action ] 23:48:55 - [from: send          ] - 657660561 <- 220158070 -> [flavio è..?]
+[ Action ] 23:49:18 - [from: send          ] - 657660561 <- 220158070 -> [insulti]
+[ Action ] 23:52:01 - [from: send          ] - 657660561 <- 220158070 -> [ucciditi]
+[ Action ] 23:52:16 - [from: send          ] - 657660561 <- 275600021 -> [gen_answ]
+[ Action ] 00:05:41 - [from: send          ] - 657660561 <- 220158070 -> [saluta]
+[ Action ] 00:05:53 - [from: send          ] - 657660561 <- 535017415 -> [insulti]
+[ Action ] 00:06:07 - [from: send          ] - 657660561 <- 181032218 -> [None]
+[ Action ] 00:06:08 - [from: send          ] - 657660561 <- 181032218 -> [start]
+[ Action ] 00:06:35 - [from: send          ] - 657660561 <- 181032218 -> [saluta]
+[ Action ] 00:06:42 - [from: send          ] - 657660561 <- 535017415 -> [saluti]
+[ Action ] 00:06:57 - [from: send          ] - 657660561 <- 181032218 -> [amare]
+[ Action ] 00:07:05 - [from: send          ] - 657660561 <- 220158070 -> [sei ritardato]
+[ Action ] 00:07:18 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 00:07:21 - [from: send          ] - 657660561 <- 181032218 -> [gen_answ]
+[ Action ] 00:07:23 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 00:07:33 - [from: send          ] - 657660561 <- 220158070 -> [amare]
+[ Action ] 00:07:34 - [from: send          ] - 657660561 <- 181032218 -> [insulti]
+[ Action ] 00:07:39 - [from: send          ] - 657660561 <- 390083144 -> [gen_answ]
+[ Action ] 00:07:52 - [from: send          ] - 657660561 <- 535017415 -> [cpu]
+[ Action ] 00:07:59 - [from: send          ] - 657660561 <- 181032218 -> [bene]
+[ Action ] 00:08:00 - [from: send          ] - 657660561 <- 535017415 -> [cpu]
+[ Action ] 00:08:17 - [from: send          ] - 657660561 <- 535017415 -> [cpu]
+[ Action ] 00:08:35 - [from: send          ] - 657660561 <- 535017415 -> [cpu]
+[ Action ] 00:08:37 - [from: send          ] - 657660561 <- 390083144 -> [insulti]
+[ Action ] 00:08:40 - [from: send          ] - 657660561 <- 535017415 -> [cpu]
+[ Action ] 00:09:01 - [from: send          ] - 657660561 <- 220158070 -> [che ne pensi di minestrone]
+[ Action ] 00:10:26 - [from: send          ] - 657660561 <- 220158070 -> [sei maschio o femmina?]
+[ Action ] 00:10:50 - [from: send          ] - 657660561 <- 181032218 -> [gen_answ]
+[ Action ] 00:11:31 - [from: send          ] - 657660561 <- 181032218 -> [gen_answ]
+[ Action ] 00:11:43 - [from: send          ] - 657660561 <- 220158070 -> [sei una trap?]
+[ Action ] 00:11:54 - [from: send          ] - 657660561 <- 181032218 -> [gen_answ]
+[ Action ] 00:12:00 - [from: send          ] - 657660561 <- 390083144 -> [amare]
+[ Action ] 00:12:16 - [from: send          ] - 657660561 <- 390083144 -> [gen_answ]
+[ Action ] 00:12:59 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 00:13:01 - [from: send          ] - 657660561 <- 513798357 -> [kenny ti amo]
+[ Action ] 00:13:09 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 00:13:09 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 00:13:13 - [from: send          ] - 657660561 <- 390083144 -> [gen_answ]
+[ Action ] 00:13:16 - [from: send          ] - 657660561 <- 181032218 -> [abbracciami]
+[ Action ] 00:13:19 - [from: send          ] - 657660561 <- 535017415 -> [bufu]
+[ Action ] 00:13:24 - [from: send          ] - 657660561 <- 513798357 -> [ringraziamenti]
+[ Action ] 00:13:35 - [from: send          ] - 657660561 <- 390083144 -> [insulti]
+[ Action ] 00:13:38 - [from: send          ] - 657660561 <- 181032218 -> [alexa play despacito]
+[ Action ] 00:13:48 - [from: send          ] - 657660561 <- 181032218 -> [ciao troietta]
+[ Action ] 00:14:28 - [from: send          ] - 657660561 <- 181032218 -> [gen_answ]
+[ Action ] 00:14:48 - [from: send          ] - 657660561 <- 535017415 -> [chiamata]
+[ Action ] 00:15:54 - [from: send          ] - 657660561 <- 220158070 -> [send nudes]
+[ Action ] 00:16:25 - [from: send          ] - 657660561 <- 181032218 -> [tua zia è morta]
+[ Action ] 00:16:54 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 00:17:58 - [from: send          ] - 657660561 <- 513798357 -> [abbracciami]
+[ Action ] 00:19:08 - [from: send          ] - 657660561 <- 220158070 -> [mi sento male]
+[ Action ] 00:19:54 - [from: send          ] - 657660561 <- 220158070 -> [xd]
+[ Action ] 00:20:34 - [from: send          ] - 657660561 <- 220158070 -> [xd]
+[ Action ] 00:21:10 - [from: send          ] - 657660561 <- 181032218 -> [xd]
+[ Action ] 00:21:17 - [from: send          ] - 657660561 <- 181032218 -> [xd]
+[ Action ] 00:21:20 - [from: send          ] - 657660561 <- 181032218 -> [xd]
+[ Action ] 00:21:26 - [from: send          ] - 657660561 <- 181032218 -> [xd]
+[ Action ] 00:21:45 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 00:21:52 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 00:21:54 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 00:21:58 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 00:22:02 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 00:23:06 - [from: send          ] - 657660561 <- 220158070 -> [weee testinaaa]
+[ Action ] 00:26:05 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:26:22 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:26:32 - [from: send          ] - 657660561 <- 513798357 -> [cosa ne pensi]
+[ Action ] 00:26:42 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:26:53 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:27:17 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:27:23 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:27:29 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:27:34 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:28:15 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 00:29:37 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:30:38 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 00:31:21 - [from: send          ] - 657660561 <- 220158070 -> [complimenti]
+[ Action ] 00:32:34 - [from: send          ] - 657660561 <- 220158070 -> [che musica ascolti]
+[ Action ] 00:33:02 - [from: send          ] - 657660561 <- 500695552 -> [gen_answ]
+[ Action ] 00:36:24 - [from: send          ] - 657660561 <- 220158070 -> [ringrazia fra]
+[ Action ] 00:38:46 - [from: send          ] - 657660561 <- 500695552 -> [gen_answ]
+[ Debug  ] 01:08:22 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 01:25:10 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 01:25:26 - [from: command_reader] - I'm Kitsu.
+[ Action ] 01:25:27 - [from: send          ] - 668408714 <- 500695552 -> []
+[ Debug  ] 01:25:30 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 01:25:42 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 01:26:28 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 01:26:28 - [from: command_reader] - You're master.
+[ Debug  ] 01:27:05 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 01:27:05 - [from: command_reader] - You're master.
+[ Debug  ] 01:27:29 - [from: command_reader] - I'm Kitsu.
+[ Action ] 01:27:29 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user:  ID: 500695552 'newbot senza chiave'
+[ Debug  ] 01:28:20 - [from: command_reader] - I'm Kitsu.
+[ Action ] 01:28:20 - [from: send          ] - 668408714 <- 500695552 -> [comando sconosciuto]
+[ Action ] 01:28:38 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 01:30:26 - [from: send          ] - 657660561 <- 220158070 -> [è triste fai qualcosa]
+[ Action ] 01:30:57 - [from: send          ] - 657660561 <- 548232927 -> [gen_answ]
+[ Action ] 01:31:06 - [from: send          ] - 657660561 <- 548232927 -> [gen_answ]
+[ Action ] 01:31:54 - [from: send          ] - 657660561 <- 220158070 -> [consolami]
+[ Action ] 01:32:11 - [from: send          ] - 657660561 <- 220158070 -> [consolami]
+[ Action ] 01:33:58 - [from: send          ] - 657660561 <- 220158070 -> [sivishow...]
+[ Debug  ] 01:36:18 - [from: command_reader] - I'm Kitsu.
+[ Action ] 01:36:18 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user:  ID: 500695552 'newbot senza chiave'
+[ Debug  ] 01:36:21 - [from: command_reader] - I'm Kitsu.
+[ Action ] 01:36:22 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user:  ID: 500695552 'newbot senza chiave'
+[ Debug  ] 01:36:27 - [from: command_reader] - I'm Kitsu.
+[ Action ] 01:36:27 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user:  ID: 500695552 'newbot senza chiave'
+[ Action ] 01:37:03 - [from: send          ] - 668408714 <- 500695552 -> [gen_answ]
+[ Action ] 01:38:38 - [from: send          ] - 668408714 <- 500695552 -> [gen_answ]
+[ Action ] 01:39:02 - [from: send          ] - 668408714 <- 500695552 -> [gen_answ]
+[ Action ] 01:40:48 - [from: send          ] - 668408714 <- 500695552 -> [gen_answ]
+[ Info   ] 08:47:17 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 08:47:17 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 08:47:17 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 09:49:24 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 09:49:24 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 09:49:24 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 09:49:41 - [from: send          ] - 657660561 <- 423405815 -> [None]
+[ Action ] 09:49:42 - [from: send          ] - 657660561 <- 423405815 -> [start]
+[ Action ] 09:49:43 - [from: send          ] - 657660561 <- 535017415 -> [cpu]
+[ Action ] 09:50:08 - [from: send          ] - 657660561 <- 423405815 -> [saluti]
+[ Action ] 09:50:17 - [from: send          ] - 657660561 <- 423405815 -> [sborra]
+[ Action ] 09:50:36 - [from: send          ] - 657660561 <- 423405815 -> [chiamata]
+[ Action ] 09:51:25 - [from: send          ] - 657660561 <- 423405815 -> [sborra]
+[ Action ] 09:52:16 - [from: send          ] - 657660561 <- 423405815 -> [abbracciami]
+[ Action ] 09:52:33 - [from: send          ] - 657660561 <- 423405815 -> [abbracciami]
+[ Action ] 09:53:56 - [from: send          ] - 657660561 <- 423405815 -> [bene]
+[ Debug  ] 09:54:10 - [from: command_reader] - I'm Kitsu.
+[ Action ] 09:54:10 - [from: send          ] - 668408714 <- 423405815 -> []
+[ Debug  ] 09:54:15 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 09:54:29 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 09:55:44 - [from: command_reader] - I'm Kitsu.
+[ Action ] 09:55:44 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot senza chiave'
+[ Action ] 10:02:14 - [from: send          ] - 657660561 <- 423405815 -> [sborra]
+[ Action ] 10:07:18 - [from: send          ] - 657660561 <- 542930561 -> [sborra]
+[ Action ] 10:07:32 - [from: send          ] - 657660561 <- 390083144 -> [sborra]
+[ Debug  ] 10:07:33 - [from: bcast         ] - Broadcast utenti avviato da kfrahh ID 535017415
+[ Action ] 10:07:34 - [from: send          ] - 657660561 <- 535017415 -> [None]
+[ Action ] 10:07:38 - [from: send          ] - 657660561 <- 390083144 -> [sborra]
+[ Action ] 10:07:42 - [from: send          ] - 657660561 <- 390083144 -> [sborra]
+[ Action ] 10:19:23 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 10:19:42 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 10:20:46 - [from: send          ] - 657660561 <- 220158070 -> [porca puttana. menomale che mio padre, un secondo prima di aprire la chat, si è alzato dal divano]
+[ Action ] 10:22:59 - [from: send          ] - 657660561 <- 220158070 -> [kenny ti amo]
+[ Action ] 10:25:40 - [from: send          ] - 657660561 <- 542930561 -> [porca puttana. menomale che mio padre, un secondo prima di aprire la chat, si è alzato dal divano]
+[ Debug  ] 10:27:56 - [from: command_reader] - I'm Kitsu.
+[ Action ] 10:27:56 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Debug  ] 10:28:02 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 10:28:02 - [from: command_reader] - You're master.
+[ Info   ] 10:28:02 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 10:28:02 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 10:28:02 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 10:28:13 - [from: command_reader] - I'm Kitsu.
+[ Action ] 10:28:13 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot chiave errata'
+[ Action ] 10:28:40 - [from: send          ] - 657660561 <- 220158070 -> [porco diooo! proprio mo che sognavo di scoparmi tua madre]
+[ Debug  ] 10:29:08 - [from: command_reader] - I'm Kitsu.
+[ Action ] 10:29:09 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot chiave errata'
+[ Debug  ] 10:29:23 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 10:29:24 - [from: add_bot       ] - Nuovo bot (648162879) aggiunto al file bots
+[ Action ] 10:30:55 - [from: send          ] - 648162879 <- 220158070 -> [None]
+[ Action ] 10:30:56 - [from: send          ] - 648162879 <- 220158070 -> [start]
+[ Action ] 10:33:09 - [from: send          ] - 657660561 <- 220158070 -> [saluta]
+[ Action ] 10:37:03 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 10:37:09 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 10:37:09 - [from: send          ] - 657660561 <- 220158070 -> [None]
+[ Action ] 10:38:00 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 10:44:31 - [from: send          ] - 657660561 <- 423405815 -> [sborra]
+[ Action ] 10:46:34 - [from: send          ] - 657660561 <- 181032218 -> [saluta]
+[ Action ] 10:46:40 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Action ] 10:46:41 - [from: send          ] - 657660561 <- 181032218 -> [amare]
+[ Action ] 10:46:58 - [from: send          ] - 657660561 <- 181032218 -> [gen_answ]
+[ Action ] 10:47:32 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 10:55:12 - [from: send          ] - 657660561 <- 535017415 -> [None]
+[ Action ] 10:55:16 - [from: send          ] - 657660561 <- 535017415 -> [None]
+[ Info   ] 10:55:16 - [from: detach_bot    ] - Bot with 657660561:AAG9Ck_AFr_YC5FlQ_KwZwWntzoCsU5KGKQ token stopped.
+[ Info   ] 13:47:00 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 13:47:00 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 13:47:00 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 13:47:03 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 13:47:03 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 13:47:03 - [from: attach_bot    ] - Finished iterating tokens!
+[ Warn   ] 13:47:09 - [from: bot_init      ] - Bot with token '648162879:AAGksVrkr5Mce-GroSNdwtE9Hku-OFLvgXs' unauthorized.
+[ Debug  ] 13:47:10 - [from: delete_bot    ] - File bots scritto
+[ Action ] 13:47:10 - [from: warn_token    ] - Master, ho scollegato il bot di 535017415 per token revocata.
+[ Debug  ] 13:47:15 - [from: restore       ] - Decode ok! JSON ok!
+[ Action ] 13:47:57 - [from: send          ] - 597857131 <- 535017415 -> [chiamata]
+[ Debug  ] 13:48:30 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:48:30 - [from: command_reader] - You're master.
+[ Debug  ] 13:49:26 - [from: restore       ] - Decode ok! JSON ok!
+[ Action ] 13:49:30 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Debug  ] 13:49:32 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:49:32 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: IlVeroMario777 ID: 240566977 'newbot senza chiave'
+[ Action ] 13:49:33 - [from: send          ] - 597857131 <- 535017415 -> [sasso]
+[ Debug  ] 13:49:39 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:49:39 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: IlVeroMario777 ID: 240566977 'newbot senza chiave'
+[ Debug  ] 13:49:55 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:50:07 - [from: command_reader] - I'm Kitsu.
+[ Action ] 13:54:07 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: IlVeroMario777 ID: 240566977 'newbot senza chiave'
+[ Debug  ] 13:54:07 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 13:54:08 - [from: add_bot       ] - Nuovo bot (635998744) aggiunto al file bots
+[ Action ] 13:58:46 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 13:59:15 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Debug  ] 14:03:31 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:03:31 - [from: command_reader] - You're master.
+[ Info   ] 14:03:39 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:03:39 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:03:39 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 14:05:45 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:05:45 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:05:45 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 14:08:35 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:08:35 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:08:35 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 14:09:03 - [from: command_reader] - I'm Kitsu.
+[ Info   ] 14:09:37 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:09:37 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:09:37 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 14:09:54 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:09:54 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:09:54 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 14:10:44 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:10:44 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:10:44 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:10:55 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 14:11:06 - [from: send          ] - 657660561 <- 535017415 -> [chiamata]
+[ Debug  ] 14:11:55 - [from: command_reader] - I'm Kitsu.
+[ Action ] 14:11:55 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: IlVeroMario777 ID: 240566977 'newbot utente ha già un bot'
+[ Debug  ] 14:12:24 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:12:24 - [from: command_reader] - You're master.
+[ Info   ] 14:12:25 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Info   ] 14:12:33 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Info   ] 14:13:02 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Info   ] 14:14:25 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Info   ] 14:15:09 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:15:09 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:15:09 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:15:18 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 14:15:46 - [from: send          ] - 657660561 <- 535017415 -> [insulti]
+[ Debug  ] 14:15:52 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:15:56 - [from: add_bot       ] - Nuovo bot (657910772) aggiunto al file bots
+[ Action ] 14:16:26 - [from: send          ] - 657910772 <- 535017415 -> [None]
+[ Action ] 14:16:26 - [from: send          ] - 657910772 <- 535017415 -> [start]
+[ Action ] 14:16:33 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 14:16:38 - [from: send          ] - 657660561 <- 535017415 -> [saluti]
+[ Debug  ] 14:21:41 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:21:41 - [from: command_reader] - You're master.
+[ Debug  ] 14:21:50 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:21:50 - [from: command_reader] - You're master.
+[ Debug  ] 14:21:54 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:21:54 - [from: command_reader] - You're master.
+[ Action ] 14:21:54 - [from: send          ] - 668408714 <- 535017415 -> [comando sconosciuto]
+[ Debug  ] 14:22:01 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:22:01 - [from: command_reader] - You're master.
+[ Action ] 14:22:02 - [from: send          ] - 668408714 <- 535017415 -> [comando sconosciuto]
+[ Debug  ] 14:22:05 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:22:05 - [from: command_reader] - You're master.
+[ Action ] 14:22:06 - [from: send          ] - 668408714 <- 535017415 -> [comando sconosciuto]
+[ Debug  ] 14:23:41 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:23:41 - [from: command_reader] - You're master.
+[ Debug  ] 14:23:44 - [from: command_reader] - I'm Kitsu.
+[ Action ] 14:24:51 - [from: send          ] - 600169672 <- 423405815 -> [None]
+[ Action ] 14:24:51 - [from: send          ] - 600169672 <- 423405815 -> [start]
+[ Action ] 14:25:09 - [from: send          ] - 657910772 <- 423405815 -> [None]
+[ Action ] 14:25:09 - [from: send          ] - 657910772 <- 423405815 -> [start]
+[ Debug  ] 14:25:13 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:25:13 - [from: command_reader] - You're master.
+[ Debug  ] 14:25:26 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:25:26 - [from: command_reader] - You're master.
+[ Action ] 14:25:26 - [from: send          ] - 668408714 <- 535017415 -> [comando sconosciuto]
+[ Debug  ] 14:25:35 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:25:35 - [from: command_reader] - You're master.
+[ Action ] 14:25:43 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 14:31:57 - [from: send          ] - 600169672 <- 535017415 -> [rip]
+[ Action ] 14:38:01 - [from: send          ] - 657910772 <- 240566977 -> [saluti]
+[ Action ] 14:38:27 - [from: send          ] - 657910772 <- 535017415 -> [saluti]
+[ Action ] 14:40:55 - [from: send          ] - 657910772 <- 535017415 -> [insulti]
+[ Action ] 14:42:53 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 14:43:11 - [from: send          ] - 657910772 <- 240566977 -> [insulti]
+[ Debug  ] 14:46:51 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:46:52 - [from: add_bot       ] - Nuovo bot (589696502) aggiunto al file bots
+[ Action ] 14:47:49 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:48:00 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:48:01 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:48:44 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:00 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:01 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:01 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:14 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:15 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:15 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:39 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:40 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:41 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:41 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:43 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:49:56 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:50:00 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:50:00 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:50:09 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:50:14 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:50:15 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:51:25 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:52:32 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:52:42 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:52:43 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:52:47 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:52:51 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:52:52 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 14:53:01 - [from: send          ] - 657910772 <- 240566977 -> [insulti]
+[ Action ] 14:53:16 - [from: send          ] - 657910772 <- 240566977 -> [insulti]
+[ Action ] 14:54:32 - [from: send          ] - 657660561 <- 535017415 -> [kenny ti amo]
+[ Action ] 15:02:51 - [from: send          ] - 657910772 <- 240566977 -> [saluti]
+[ Action ] 15:03:06 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 15:03:21 - [from: send          ] - 657910772 <- 240566977 -> [insulti]
+[ Action ] 15:03:21 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 15:19:13 - [from: send          ] - 657910772 <- 240566977 -> [xd]
+[ Action ] 15:19:46 - [from: send          ] - 657910772 <- 240566977 -> [insulti]
+[ Action ] 15:19:48 - [from: send          ] - 657910772 <- 240566977 -> [xd]
+[ Action ] 15:23:05 - [from: send          ] - 657910772 <- 240566977 -> [xd]
+[ Action ] 15:23:37 - [from: send          ] - 657910772 <- 240566977 -> [xd]
+[ Action ] 15:27:43 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Debug  ] 15:27:45 - [from: command_reader] - I'm Kitsu.
+[ Action ] 15:27:45 - [from: newbot        ] - [Bot: @Yukimakerbot_bot | 668408714] user: kfrahh ID: 535017415 'newbot utente ha già un bot'
+[ Debug  ] 15:28:20 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 15:28:20 - [from: command_reader] - You're master.
+[ Info   ] 15:28:21 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 15:28:21 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 15:28:21 - [from: attach_bot    ] - Finished iterating tokens!
+[ Debug  ] 15:28:26 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 15:28:28 - [from: add_bot       ] - Nuovo bot (680545552) aggiunto al file bots
+[ Action ] 15:30:43 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:30:57 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:31:21 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:31:39 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:32:48 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:33:01 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:33:02 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:33:08 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:33:12 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:33:13 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:33:43 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:33:45 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:33:45 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:33:58 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:34:01 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:34:01 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:34:32 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 15:34:40 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 15:34:42 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 15:34:45 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 15:35:00 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 15:35:11 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 15:35:17 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 15:35:22 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 15:36:31 - [from: send          ] - 657660561 <- 535017415 -> [bananahh ma sei lesbika]
+[ Action ] 15:36:36 - [from: send          ] - 657660561 <- 535017415 -> [bananahh ma sei lesbika]
+[ Action ] 15:36:47 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:36:50 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:36:51 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:37:05 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:37:10 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:37:11 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:38:33 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:38:36 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:38:41 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:38:42 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:38:43 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:39:04 - [from: send          ] - 680545552 <- 535017415 -> [saluti]
+[ Action ] 15:39:06 - [from: send          ] - 680545552 <- 535017415 -> [saluti]
+[ Action ] 15:39:09 - [from: send          ] - 680545552 <- 535017415 -> [saluti]
+[ Action ] 15:39:10 - [from: send          ] - 680545552 <- 535017415 -> [saluti]
+[ Action ] 15:39:12 - [from: send          ] - 680545552 <- 535017415 -> [saluti]
+[ Action ] 15:40:06 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:40:22 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:40:32 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:40:33 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:40:39 - [from: send          ] - 657910772 <- 240566977 -> [insulti]
+[ Action ] 15:40:42 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:40:43 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:40:43 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:41:10 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:41:50 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 15:41:54 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:42:38 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:42:47 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:42:48 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:42:52 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:42:54 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:42:55 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:43:11 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:43:16 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:43:16 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:43:26 - [from: send          ] - 657660561 <- 535017415 -> [kenny ti amo]
+[ Action ] 15:43:56 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 15:45:05 - [from: send          ] - 657910772 <- 240566977 -> [saluti]
+[ Action ] 15:45:14 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:45:15 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:45:19 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:45:21 - [from: send          ] - 597857131 <- 535017415 -> [pizza]
+[ Action ] 15:46:24 - [from: send          ] - 589696502 <- 513798357 -> [None]
+[ Action ] 15:46:24 - [from: send          ] - 589696502 <- 513798357 -> [start]
+[ Action ] 15:47:03 - [from: send          ] - 597857131 <- 513798357 -> [pizza]
+[ Action ] 15:48:17 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:48:20 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:48:29 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:48:29 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:48:37 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:48:38 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:48:42 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:48:44 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:48:45 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:49:01 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 15:49:06 - [from: send          ] - 657910772 <- 240566977 -> [scopami]
+[ Action ] 15:49:23 - [from: send          ] - 657910772 <- 240566977 -> [scopami]
+[ Action ] 15:50:44 - [from: send          ] - 657660561 <- 240566977 -> [bufu]
+[ Action ] 15:50:54 - [from: send          ] - 680545552 <- 423405815 -> [None]
+[ Action ] 15:50:54 - [from: send          ] - 680545552 <- 423405815 -> [start]
+[ Action ] 15:51:32 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:51:34 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:51:35 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:53:31 - [from: send          ] - 589696502 <- 220158070 -> [None]
+[ Action ] 15:53:32 - [from: send          ] - 589696502 <- 220158070 -> [start]
+[ Action ] 15:53:36 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:53:40 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:53:41 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:54:35 - [from: send          ] - 680545552 <- 423405815 -> [gen_answ]
+[ Action ] 15:55:01 - [from: send          ] - 657910772 <- 240566977 -> [xd]
+[ Action ] 15:55:12 - [from: send          ] - 680545552 <- 220158070 -> [None]
+[ Action ] 15:55:13 - [from: send          ] - 680545552 <- 220158070 -> [start]
+[ Action ] 15:55:22 - [from: send          ] - 657910772 <- 240566977 -> [insulti]
+[ Action ] 15:55:26 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 15:55:34 - [from: send          ] - 680545552 <- 220158070 -> [gen_answ]
+[ Action ] 15:55:37 - [from: send          ] - 657660561 <- 535017415 -> [k]
+[ Action ] 15:55:39 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 15:55:46 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 15:57:24 - [from: send          ] - 657660561 <- 220158070 -> [k]
+[ Action ] 15:57:24 - [from: send          ] - 680545552 <- 220158070 -> [k]
+[ Action ] 15:57:45 - [from: send          ] - 680545552 <- 220158070 -> [k]
+[ Action ] 15:57:55 - [from: send          ] - 657910772 <- 240566977 -> [scopami]
+[ Action ] 15:58:24 - [from: send          ] - 680545552 <- 220158070 -> [gen_answ]
+[ Action ] 15:58:26 - [from: send          ] - 680545552 <- 535017415 -> [sono lesbica]
+[ Action ] 15:58:32 - [from: send          ] - 657910772 <- 240566977 -> [xd]
+[ Action ] 15:58:39 - [from: send          ] - 657910772 <- 240566977 -> [xd]
+[ Action ] 15:58:44 - [from: send          ] - 657910772 <- 383547742 -> [xd]
+[ Info   ] 15:59:49 - [from: detach_bot    ] - Bot with 589696502:AAHCymehEgNI281wMUOl5rU_QdWeq89XgM8 token stopped.
+[ Info   ] 15:59:49 - [from: detach_bot    ] - Bot with 597857131:AAHSGIcmBw2R50yjSlUWWKOU7KTi90aw4SU token stopped.
+[ Info   ] 15:59:49 - [from: detach_bot    ] - Bot with 680545552:AAEpujrzwX8YBtAEDjvRbT_AwnR1Xbze_jA token stopped.
+[ Info   ] 15:59:49 - [from: detach_bot    ] - Bot with 657660561:AAG9Ck_AFr_YC5FlQ_KwZwWntzoCsU5KGKQ token stopped.
+[ Action ] 16:00:25 - [from: send          ] - 597857131 <- 535017415 -> [wtf]
+[ Action ] 16:02:01 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:02:06 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:02:07 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:02:14 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:02:15 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:03:02 - [from: send          ] - 657910772 <- 240566977 -> [insulta]
+[ Action ] 16:03:12 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:03:18 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:03:19 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:03:25 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:03:29 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:03:30 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:04:22 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Info   ] 16:04:36 - [from: detach_bot    ] - Bot with 589696502:AAHCymehEgNI281wMUOl5rU_QdWeq89XgM8 token stopped.
+[ Action ] 16:05:32 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 16:05:38 - [from: send          ] - 657910772 <- 240566977 -> [insulta]
+[ Action ] 16:05:58 - [from: send          ] - 657910772 <- 240566977 -> [insulta]
+[ Action ] 16:06:20 - [from: send          ] - 597857131 <- 535017415 -> [sei trascurato]
+[ Action ] 16:06:27 - [from: send          ] - 657910772 <- 240566977 -> [scopami]
+[ Action ] 16:08:56 - [from: send          ] - 657660561 <- 535017415 -> [kenny ti amo]
+[ Action ] 16:09:15 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 16:09:26 - [from: send          ] - 589696502 <- 535017415 -> [gen_answ]
+[ Action ] 16:10:45 - [from: send          ] - 589696502 <- 535017415 -> [insulti]
+[ Action ] 16:11:31 - [from: send          ] - 657660561 <- 535017415 -> [xd]
+[ Action ] 16:14:10 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 16:14:18 - [from: send          ] - 657910772 <- 240566977 -> [saluta]
+[ Action ] 16:14:31 - [from: send          ] - 657910772 <- 240566977 -> [saluta]
+[ Action ] 16:15:34 - [from: send          ] - 657910772 <- 240566977 -> [saluta]
+[ Action ] 16:16:21 - [from: send          ] - 657910772 <- 240566977 -> [saluta]
+[ Action ] 16:16:39 - [from: send          ] - 657910772 <- 240566977 -> [saluta]
+[ Action ] 16:16:55 - [from: send          ] - 657910772 <- 240566977 -> [saluta]
+[ Action ] 16:18:29 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:18:32 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:18:32 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:23:54 - [from: send          ] - 657910772 <- 535017415 -> [saluti]
+[ Action ] 16:24:20 - [from: send          ] - 657910772 <- 535017415 -> [saluti]
+[ Action ] 16:24:26 - [from: send          ] - 657910772 <- 535017415 -> [xd]
+[ Action ] 16:24:38 - [from: send          ] - 657660561 <- 423405815 -> [saluta]
+[ Action ] 16:25:00 - [from: send          ] - 657660561 <- 657464255 -> [saluti]
+[ Action ] 16:29:14 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:29:19 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:29:19 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:29:27 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:29:28 - [from: send          ] - 657660561 <- 423405815 -> [gen_answ]
+[ Action ] 16:29:32 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:29:32 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:30:02 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:30:07 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:30:07 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:31:32 - [from: send          ] - 657660561 <- 657464255 -> [gen_answ]
+[ Action ] 16:32:10 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:32:12 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:32:12 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:32:26 - [from: send          ] - 589696502 <- 535017415 -> [gen_answ]
+[ Action ] 16:33:13 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:33:15 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:33:15 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:34:01 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:34:03 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:34:03 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:37:56 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:38:00 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:38:01 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 16:43:05 - [from: send          ] - 657660561 <- 657464255 -> [sborra]
+[ Action ] 16:43:40 - [from: send          ] - 657660561 <- 657464255 -> [gen_answ]
+[ Action ] 16:44:50 - [from: send          ] - 657660561 <- 268846487 -> [sborra]
+[ Action ] 16:49:55 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 16:51:25 - [from: send          ] - 589696502 <- 513798357 -> [gen_answ]
+[ Action ] 16:52:20 - [from: list_risps    ] - 680545552 <- 535017415 -> [list_risposte]
+[ Action ] 16:52:20 - [from: list_risps    ] - 589696502 <- 535017415 -> [list_risposte]
+[ Action ] 16:52:20 - [from: list_risps    ] - 597857131 <- 535017415 -> [list_risposte]
+[ Action ] 16:52:20 - [from: list_risps    ] - 657660561 <- 535017415 -> [list_risposte]
+[ Action ] 16:52:59 - [from: send          ] - 589696502 <- 535017415 -> [chiamata]
+[ Action ] 16:55:00 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 16:55:18 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 16:55:19 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 16:55:28 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 17:00:04 - [from: send          ] - 657660561 <- 513798357 -> [saluta]
+[ Action ] 17:00:06 - [from: send          ] - 657660561 <- 513798357 -> [chiamata]
+[ Action ] 17:00:23 - [from: send          ] - 657660561 <- 547692299 -> [gen_answ]
+[ Action ] 17:00:37 - [from: send          ] - 589696502 <- 513798357 -> [gen_answ]
+[ Action ] 17:21:55 - [from: send          ] - 657660561 <- 530109854 -> [xd]
+[ Action ] 17:21:57 - [from: send          ] - 657660561 <- 547692299 -> [gen_answ]
+[ Warn   ] 17:21:57 - [from: antispam      ] - 657660561 <- 547692299 -> [spam 1]
+[ Action ] 17:22:01 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 17:22:02 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Warn   ] 17:22:02 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 1]
+[ Action ] 17:22:03 - [from: send          ] - 657660561 <- 513798357 -> [chiamata]
+[ Warn   ] 17:22:04 - [from: antispam      ] - 657660561 <- 547692299 -> [spam 2]
+[ Action ] 17:22:08 - [from: send          ] - 657660561 <- 530109854 -> [xd]
+[ Action ] 17:22:21 - [from: send          ] - 657660561 <- 547692299 -> [chiamata]
+[ Action ] 17:22:26 - [from: send          ] - 657660561 <- 547692299 -> [gen_answ]
+[ Action ] 17:22:37 - [from: send          ] - 657660561 <- 530109854 -> [xd]
+[ Action ] 17:23:02 - [from: send          ] - 657660561 <- 547692299 -> [saluta]
+[ Action ] 17:23:05 - [from: send          ] - 657660561 <- 547692299 -> [xd]
+[ Action ] 17:23:23 - [from: send          ] - 657660561 <- 530109854 -> [None]
+[ Action ] 17:23:24 - [from: send          ] - 657660561 <- 530109854 -> [start]
+[ Action ] 17:23:25 - [from: send          ] - 657660561 <- 530109854 -> [saluti]
+[ Warn   ] 17:23:25 - [from: antispam      ] - 657660561 <- 530109854 -> [spam 1]
+[ Action ] 17:24:09 - [from: send          ] - 657660561 <- 535017415 -> [chiamata]
+[ Action ] 17:24:29 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 17:25:03 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 17:25:09 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 17:25:41 - [from: send          ] - 657660561 <- 547692299 -> [xd]
+[ Action ] 17:26:43 - [from: send          ] - 657660561 <- 547692299 -> [saluta]
+[ Action ] 17:26:49 - [from: send          ] - 657660561 <- 547692299 -> [chiamata]
+[ Action ] 17:26:53 - [from: send          ] - 657660561 <- 547692299 -> [chiamata]
+[ Action ] 17:28:35 - [from: send          ] - 680545552 <- 423405815 -> [saluti]
+[ Action ] 17:29:25 - [from: send          ] - 597857131 <- 423405815 -> [chiamata]
+[ Action ] 17:54:06 - [from: send          ] - 657910772 <- 240566977 -> [anime]
+[ Action ] 17:54:22 - [from: send          ] - 657910772 <- 240566977 -> [anime]
+[ Action ] 17:54:52 - [from: send          ] - 657910772 <- 240566977 -> [anime]
+[ Info   ] 19:03:21 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 19:03:21 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 19:03:21 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 19:03:49 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 19:04:04 - [from: send          ] - 657660561 <- 535017415 -> [chiamata]
+[ Action ] 19:04:33 - [from: send          ] - 657660561 <- 220158070 -> [chiamata]
+[ Action ] 19:04:44 - [from: send          ] - 589696502 <- 423405815 -> [gen_answ]
+[ Action ] 19:04:55 - [from: send          ] - 597857131 <- 535017415 -> [gen_answ]
+[ Info   ] 19:06:19 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 19:06:19 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 19:06:19 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 19:06:28 - [from: send          ] - 589696502 <- 513798357 -> [gen_answ]
+[ Action ] 19:06:32 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 19:08:07 - [from: send          ] - 589696502 <- 535017415 -> [chiamata]
+[ Info   ] 19:08:48 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 19:08:48 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 19:08:48 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 19:11:04 - [from: send          ] - 597857131 <- 535017415 -> [insulti]
+[ Action ] 19:11:31 - [from: send          ] - 657660561 <- 616355656 -> [gen_answ]
+[ Action ] 19:11:33 - [from: send          ] - 657910772 <- 240566977 -> [anime]
+[ Action ] 19:11:47 - [from: send          ] - 657660561 <- 616355656 -> [gen_answ]
+[ Action ] 19:13:58 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Info   ] 19:14:38 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 19:14:38 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 19:14:38 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 19:15:28 - [from: send          ] - 657660561 <- 616355656 -> [ucciditi]
+[ Action ] 19:16:43 - [from: send          ] - 657660561 <- 616355656 -> [sei una trap?]
+[ Action ] 19:17:03 - [from: send          ] - 657660561 <- 616355656 -> [abbracciami]
+[ Action ] 19:19:28 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 19:19:32 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 19:19:33 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 19:19:54 - [from: send          ] - 680545552 <- 423405815 -> [gen_answ]
+[ Action ] 19:23:21 - [from: send          ] - 589696502 <- 513798357 -> [chiamata]
+[ Action ] 19:27:32 - [from: send          ] - 657660561 <- 466971806 -> [gen_answ]
+[ Action ] 19:27:41 - [from: send          ] - 657660561 <- 466971806 -> [gen_answ]
+[ Action ] 19:27:56 - [from: send          ] - 657660561 <- 466971806 -> [gen_answ]
+[ Action ] 19:28:00 - [from: send          ] - 657660561 <- 466971806 -> [insulti]
+[ Action ] 19:28:37 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Info   ] 19:28:44 - [from: detach_bot    ] - Bot with 657910772:AAF20IDhag8AeuSYBEMUxtMRo_CoehvOnxQ token stopped.
+[ Action ] 19:28:51 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Action ] 19:28:53 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Action ] 19:28:54 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Action ] 19:28:55 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Action ] 19:28:57 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Action ] 19:28:58 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Warn   ] 19:28:59 - [from: antispam      ] - 657910772 <- 535017415 -> [spam 1]
+[ Action ] 19:29:01 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Warn   ] 19:29:01 - [from: antispam      ] - 657910772 <- 535017415 -> [spam 2]
+[ Action ] 19:29:02 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Warn   ] 19:29:03 - [from: antispam      ] - 657910772 <- 535017415 -> [spam 3]
+[ Action ] 19:29:27 - [from: send          ] - 668408714 <- 535017415 -> [saluti]
+[ Action ] 19:29:29 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 19:29:31 - [from: send          ] - 680545552 <- 535017415 -> [saluti]
+[ Action ] 19:41:57 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 19:42:14 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 19:42:15 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 4]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 5]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 6]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 7]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 8]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 9]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 10]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 11]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 12]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 13]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 14]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 15]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 16]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 17]
+[ Action ] 19:42:16 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Warn   ] 19:42:16 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 18]
+[ Warn   ] 19:42:17 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 19]
+[ Warn   ] 19:42:17 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 20]
+[ Warn   ] 19:42:17 - [from: antispam      ] - 597857131 <- 535017415 -> [spam 21]
+[ Action ] 19:51:13 - [from: send          ] - 657910772 <- 240566977 -> [xd]
+[ Action ] 19:53:02 - [from: send          ] - 657910772 <- 240566977 -> [insulta]
+[ Action ] 20:42:00 - [from: send          ] - 657910772 <- 240566977 -> [scopami]
+[ Action ] 20:55:04 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 20:55:26 - [from: send          ] - 657660561 <- 268846487 -> [chiamata]
+[ Action ] 21:00:56 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 21:14:23 - [from: send          ] - 597857131 <- 535017415 -> [chiamata]
+[ Action ] 21:14:32 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 21:17:16 - [from: send          ] - 597857131 <- 513798357 -> [gen_answ]
+[ Action ] 21:17:32 - [from: send          ] - 597857131 <- 513798357 -> [saluti]
+[ Action ] 21:17:33 - [from: send          ] - 657910772 <- 240566977 -> [xd]
+[ Action ] 21:17:44 - [from: send          ] - 597857131 <- 616355656 -> [chiamata]
+[ Action ] 21:18:25 - [from: send          ] - 597857131 <- 616355656 -> [amare]
+[ Action ] 21:18:51 - [from: send          ] - 597857131 <- 513798357 -> [lol]
+[ Action ] 21:19:46 - [from: send          ] - 597857131 <- 616355656 -> [chiamata]
+[ Action ] 21:25:33 - [from: send          ] - 589696502 <- 535017415 -> [chiamata]
+[ Action ] 21:27:12 - [from: send          ] - 657660561 <- 535017415 -> [insulti]
+[ Action ] 21:30:46 - [from: send          ] - 657660561 <- 616355656 -> [chiamata]
+[ Action ] 21:30:56 - [from: send          ] - 657660561 <- 616355656 -> [chiamata]
+[ Action ] 21:31:24 - [from: send          ] - 657660561 <- 616355656 -> [ringraziamenti]
+[ Action ] 21:32:14 - [from: send          ] - 657910772 <- 240566977 -> [scopami]
+[ Action ] 21:32:31 - [from: send          ] - 657910772 <- 240566977 -> [anime]
+[ Action ] 21:33:36 - [from: send          ] - 589696502 <- 535017415 -> [mi abbracci?]
+[ Action ] 21:33:59 - [from: send          ] - 657660561 <- 616355656 -> [gen_answ]
+[ Action ] 21:34:06 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 21:34:14 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 21:34:14 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 21:34:31 - [from: send          ] - 589696502 <- 513798357 -> [gen_answ]
+[ Action ] 21:34:40 - [from: send          ] - 589696502 <- 535017415 -> [insulti]
+[ Action ] 21:35:01 - [from: send          ] - 589696502 <- 513798357 -> [gen_answ]
+[ Action ] 21:35:02 - [from: send          ] - 657660561 <- 240566977 -> [xd]
+[ Action ] 21:35:23 - [from: send          ] - 589696502 <- 394512675 -> [gen_answ]
+[ Action ] 21:35:31 - [from: send          ] - 589696502 <- 394512675 -> [gen_answ]
+[ Action ] 21:35:37 - [from: send          ] - 589696502 <- 513798357 -> [mi abbracci?]
+[ Action ] 21:35:38 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 21:35:50 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 21:36:02 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 21:36:04 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 21:36:06 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 21:36:30 - [from: send          ] - 657660561 <- 616355656 -> [sborra]
+[ Action ] 21:36:35 - [from: send          ] - 589696502 <- 394512675 -> [None]
+[ Action ] 21:36:36 - [from: send          ] - 589696502 <- 394512675 -> [start]
+[ Action ] 21:37:03 - [from: send          ] - 597857131 <- 616355656 -> [lol]
+[ Action ] 21:37:32 - [from: send          ] - 657660561 <- 240566977 -> [xd]
+[ Action ] 21:37:49 - [from: send          ] - 589696502 <- 535017415 -> [insulti]
+[ Action ] 21:38:47 - [from: send          ] - 657660561 <- 240566977 -> [xd]
+[ Action ] 21:39:29 - [from: send          ] - 657660561 <- 616355656 -> [chiamata]
+[ Action ] 21:39:41 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 21:39:55 - [from: send          ] - 657660561 <- 240566977 -> [abbracciami]
+[ Action ] 21:39:56 - [from: send          ] - 657660561 <- 616355656 -> [xd]
+[ Action ] 21:40:45 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 21:41:55 - [from: send          ] - 657660561 <- 616355656 -> [gen_answ]
+[ Action ] 21:41:56 - [from: send          ] - 657660561 <- 240566977 -> [android o ios?]
+[ Action ] 21:42:20 - [from: send          ] - 657660561 <- 616355656 -> [lolibot scopami]
+[ Action ] 21:42:25 - [from: send          ] - 657660561 <- 240566977 -> [tua zia è morta]
+[ Action ] 21:42:28 - [from: send          ] - 589696502 <- 513798357 -> [gen_answ]
+[ Action ] 21:43:08 - [from: send          ] - 657660561 <- 240566977 -> [è triste fai qualcosa]
+[ Action ] 21:43:09 - [from: send          ] - 657660561 <- 616355656 -> [kenny ti amo]
+[ Warn   ] 21:43:27 - [from: __init__      ] - Qualcosa è andato storto: expected string or bytes-like object
+[ Action ] 21:43:31 - [from: send          ] - 657660561 <- 240566977 -> [diomerda]
+[ Action ] 21:43:42 - [from: send          ] - 657660561 <- 616355656 -> [diomerda]
+[ Action ] 21:43:53 - [from: send          ] - 657660561 <- 616355656 -> [gen_answ]
+[ Action ] 21:44:04 - [from: send          ] - 657660561 <- 616355656 -> [bufu]
+[ Action ] 21:44:22 - [from: send          ] - 657660561 <- 616355656 -> [gen_answ]
+[ Action ] 21:44:36 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 21:44:38 - [from: send          ] - 589696502 <- 525781791 -> [None]
+[ Action ] 21:44:39 - [from: send          ] - 589696502 <- 525781791 -> [start]
+[ Warn   ] 21:44:44 - [from: __init__      ] - Qualcosa è andato storto: expected string or bytes-like object
+[ Action ] 21:45:31 - [from: send          ] - 657660561 <- 616355656 -> [sei eccitata?]
+[ Action ] 21:45:45 - [from: send          ] - 657660561 <- 268846487 -> [gen_answ]
+[ Action ] 21:45:57 - [from: send          ] - 657660561 <- 616355656 -> [gen_answ]
+[ Action ] 21:48:22 - [from: send          ] - 657660561 <- 268846487 -> [gen_answ]
+[ Action ] 21:48:53 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 21:48:53 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Info   ] 21:48:53 - [from: detach_bot    ] - Bot with 589696502:AAHCymehEgNI281wMUOl5rU_QdWeq89XgM8 token stopped.
+[ Action ] 21:48:55 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 21:48:56 - [from: send          ] - 657660561 <- 616355656 -> [gen_answ]
+[ Action ] 21:49:07 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 21:49:14 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 21:49:24 - [from: send          ] - 657660561 <- 616355656 -> [gen_answ]
+[ Action ] 21:49:51 - [from: send          ] - 657660561 <- 268846487 -> [gen_answ]
+[ Action ] 21:50:12 - [from: send          ] - 657660561 <- 268846487 -> [gen_answ]
+[ Action ] 21:50:24 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Debug  ] 21:52:51 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 21:52:51 - [from: command_reader] - You're master.
+[ Info   ] 21:52:51 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 21:52:51 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 21:52:51 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 21:54:56 - [from: send          ] - 657910772 <- 240566977 -> [anime]
+[ Info   ] 11:41:24 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 11:41:25 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 11:41:25 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 11:41:38 - [from: send          ] - 597857131 <- 535017415 -> [chiamata]
+[ Action ] 11:41:49 - [from: send          ] - 657660561 <- 535017415 -> [chiamata]
+[ Action ] 11:41:58 - [from: send          ] - 657660561 <- 220158070 -> [saluti]
+[ Action ] 11:42:20 - [from: send          ] - 657660561 <- 220158070 -> [che ne pensi]
+[ Action ] 11:42:25 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 11:42:35 - [from: send          ] - 589696502 <- 513798357 -> [chiamata]
+[ Action ] 11:43:06 - [from: send          ] - 589696502 <- 513798357 -> [mi abbracci?]
+[ Action ] 11:43:10 - [from: send          ] - 589696502 <- 513798357 -> [gen_answ]
+[ Action ] 11:43:37 - [from: send          ] - 597857131 <- 535017415 -> [chiamata]
+[ Action ] 11:43:43 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 11:43:44 - [from: send          ] - 597857131 <- 513798357 -> [chiamata]
+[ Action ] 11:43:54 - [from: send          ] - 597857131 <- 535017415 -> [gen_answ]
+[ Action ] 11:44:15 - [from: send          ] - 657660561 <- 535017415 -> [xd]
+[ Action ] 11:44:37 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Debug  ] 11:45:18 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 11:45:18 - [from: command_reader] - You're master.
+[ Debug  ] 11:45:23 - [from: command_reader] - I'm Kitsu.
+[ Action ] 11:46:02 - [from: send          ] - 597857131 <- 220158070 -> [saluti]
+[ Debug  ] 11:46:06 - [from: command_reader] - I'm Kitsu.
+[ Action ] 11:47:28 - [from: send          ] - 597857131 <- 535017415 -> [gen_answ]
+[ Action ] 11:47:33 - [from: send          ] - 597857131 <- 535017415 -> [cpu]
+[ Action ] 11:47:41 - [from: send          ] - 597857131 <- 535017415 -> [gen_answ]
+[ Action ] 11:48:08 - [from: send          ] - 657660561 <- 423405815 -> [gen_answ]
+[ Action ] 11:48:25 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 11:48:44 - [from: send          ] - 597857131 <- 423405815 -> [gen_answ]
+[ Action ] 11:49:02 - [from: send          ] - 680545552 <- 423405815 -> [chiamata]
+[ Action ] 11:49:21 - [from: send          ] - 680545552 <- 423405815 -> [chiamata]
+[ Action ] 11:49:23 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 11:49:27 - [from: send          ] - 657660561 <- 220158070 -> [potassio]
+[ Action ] 11:51:06 - [from: send          ] - 680545552 <- 535017415 -> [k]
+[ Action ] 11:51:20 - [from: send          ] - 680545552 <- 423405815 -> [gen_answ]
+[ Action ] 11:51:42 - [from: send          ] - 680545552 <- 423405815 -> [sono lesbica]
+[ Action ] 11:52:06 - [from: send          ] - 589696502 <- 423405815 -> [gen_answ]
+[ Action ] 11:52:17 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:52:23 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:52:24 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:53:05 - [from: send          ] - 680545552 <- 423405815 -> [gen_answ]
+[ Action ] 11:53:26 - [from: send          ] - 657660561 <- 535017415 -> [gen_answ]
+[ Action ] 11:55:34 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:55:37 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:55:37 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:56:23 - [from: send          ] - 680545552 <- 220158070 -> [k]
+[ Action ] 11:56:38 - [from: send          ] - 680545552 <- 423405815 -> [potassio]
+[ Action ] 11:56:38 - [from: send          ] - 657660561 <- 423405815 -> [potassio]
+[ Action ] 11:56:49 - [from: send          ] - 657660561 <- 423405815 -> [gen_answ]
+[ Action ] 11:57:18 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:57:24 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:57:25 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:58:03 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:58:08 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:58:08 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 11:58:51 - [from: send          ] - 657660561 <- 268846487 -> [che ne pensi]
+[ Action ] 11:59:19 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 11:59:23 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 11:59:23 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 11:59:56 - [from: send          ] - 657660561 <- 423405815 -> [chiamata]
+[ Action ] 12:00:07 - [from: send          ] - 657660561 <- 423405815 -> [gen_answ]
+[ Action ] 12:00:10 - [from: send          ] - 657660561 <- 513798357 -> [amare]
+[ Action ] 12:00:11 - [from: send          ] - 657660561 <- 423405815 -> [gen_answ]
+[ Action ] 12:00:41 - [from: send          ] - 657660561 <- 268846487 -> [gen_answ]
+[ Action ] 12:02:55 - [from: send          ] - 680545552 <- 423405815 -> [potassio]
+[ Action ] 12:02:55 - [from: send          ] - 657660561 <- 423405815 -> [potassio]
+[ Action ] 12:03:45 - [from: send          ] - 589696502 <- 535017415 -> [potassio]
+[ Action ] 12:03:45 - [from: send          ] - 680545552 <- 535017415 -> [potassio]
+[ Action ] 12:03:45 - [from: send          ] - 657660561 <- 535017415 -> [potassio]
+[ Action ] 12:12:56 - [from: send          ] - 589696502 <- 345082713 -> [chiamata]
+[ Action ] 12:13:19 - [from: send          ] - 589696502 <- 513798357 -> [mi abbracci?]
+[ Info   ] 12:37:42 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:37:42 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:37:42 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 12:46:10 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:46:10 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:46:10 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 12:47:05 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 12:47:05 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 12:47:05 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 12:47:30 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 12:47:45 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 12:49:06 - [from: send          ] - 589696502 <- 315792909 -> [chiamata]
+[ Action ] 12:49:43 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 12:49:50 - [from: send          ] - 657910772 <- 240566977 -> [insulti]
+[ Action ] 12:50:31 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 12:50:42 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 12:50:54 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 12:51:09 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 12:54:45 - [from: send          ] - 589696502 <- 394512675 -> [chiamata]
+[ Action ] 12:54:52 - [from: send          ] - 589696502 <- 394512675 -> [gen_answ]
+[ Action ] 12:57:53 - [from: send          ] - 657910772 <- 535017415 -> [anime]
+[ Info   ] 12:58:38 - [from: detach_bot    ] - Bot with 597857131:AAHSGIcmBw2R50yjSlUWWKOU7KTi90aw4SU token stopped.
+[ Action ] 12:58:44 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 13:02:11 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 13:02:11 - [from: send          ] - 657910772 <- 308712282 -> [eskere]
+[ Action ] 13:02:14 - [from: send          ] - 657910772 <- 308712282 -> [eskere]
+[ Action ] 13:02:20 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 13:02:22 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 13:02:28 - [from: send          ] - 597857131 <- 535017415 -> [lol]
+[ Action ] 13:02:36 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 13:02:45 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 13:03:30 - [from: send          ] - 657910772 <- 240566977 -> [anime]
+[ Action ] 13:05:21 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 13:05:22 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 13:05:23 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Info   ] 14:01:44 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:01:44 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:01:44 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:01:58 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 14:10:56 - [from: send          ] - 657660561 <- 547692299 -> [kenny ti amo]
+[ Info   ] 14:12:05 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:12:05 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:12:05 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:12:22 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 14:13:04 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 14:16:07 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Info   ] 14:18:28 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:18:28 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:18:28 - [from: attach_bot    ] - Finished iterating tokens!
+[ Info   ] 14:27:50 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:27:50 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:27:50 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:40:48 - [from: send          ] - 668408714 <- 535017415 -> [saluti]
+[ Action ] 14:41:26 - [from: send          ] - 657660561 <- 535017415 -> [chiamata]
+[ Action ] 14:41:36 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Debug  ] 14:53:08 - [from: command_reader] - I'm Kitsu.
+[ Debug  ] 14:53:15 - [from: command_reader] - I'm Kitsu.
+[ Warn   ] 14:53:16 - [from: attach_bot    ] - This bot is already online...
+[ Action ] 14:53:26 - [from: send          ] - 657660561 <- 535017415 -> [chiamata]
+[ Info   ] 14:54:11 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 14:54:11 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 14:54:11 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 14:54:18 - [from: send          ] - 597857131 <- 535017415 -> [gen_answ]
+[ Action ] 14:54:20 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Info   ] 15:14:11 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 15:14:11 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 15:14:11 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 15:17:03 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 15:17:28 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 15:33:37 - [from: send          ] - 597857131 <- 240566977 -> [lol]
+[ Action ] 15:34:43 - [from: send          ] - 657660561 <- 240566977 -> [chiamata]
+[ Action ] 15:34:54 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:35:05 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:35:10 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:35:16 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:35:31 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:35:37 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:35:47 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:35:55 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:36:01 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:36:06 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:36:13 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:36:26 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:36:33 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:36:45 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:36:46 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:36:54 - [from: send          ] - 657660561 <- 240566977 -> [insulti]
+[ Action ] 15:37:01 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:37:02 - [from: send          ] - 657660561 <- 240566977 -> [gen_answ]
+[ Action ] 15:37:02 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:37:03 - [from: send          ] - 589696502 <- 535017415 -> [None]
+[ Action ] 15:39:27 - [from: send          ] - 657660561 <- 240566977 -> [insulti]
+[ Action ] 15:39:35 - [from: send          ] - 657660561 <- 240566977 -> [diomerda]
+[ Action ] 16:09:38 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 16:10:10 - [from: send          ] - 589696502 <- 535017415 -> [gen_answ]
+[ Action ] 16:19:26 - [from: send          ] - 657660561 <- 240566977 -> [chiamata]
+[ Action ] 16:48:19 - [from: send          ] - 657660561 <- 616355656 -> [chiamata]
+[ Action ] 16:48:43 - [from: send          ] - 597857131 <- 240566977 -> [lol]
+[ Action ] 16:48:56 - [from: send          ] - 657660561 <- 423405815 -> [cosa ne pensi]
+[ Action ] 16:49:00 - [from: send          ] - 657660561 <- 423405815 -> [gen_answ]
+[ Action ] 16:54:40 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 16:54:50 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 16:55:01 - [from: send          ] - 597857131 <- 535017415 -> [rip]
+[ Action ] 16:55:11 - [from: send          ] - 597857131 <- 513798357 -> [gen_answ]
+[ Action ] 16:55:29 - [from: list_risps    ] - 657660561 <- 535017415 -> [list_risposte]
+[ Action ] 16:56:51 - [from: send          ] - 597857131 <- 616355656 -> [chiamata]
+[ Action ] 18:00:26 - [from: send          ] - 657660561 <- 240566977 -> [xd]
+[ Action ] 18:03:16 - [from: send          ] - 657910772 <- 240566977 -> [eskere]
+[ Action ] 18:41:24 - [from: send          ] - 597857131 <- 425734069 -> [None]
+[ Action ] 18:41:25 - [from: send          ] - 597857131 <- 425734069 -> [start]
+[ Action ] 18:41:58 - [from: send          ] - 597857131 <- 425734069 -> [saluti]
+[ Action ] 18:42:01 - [from: send          ] - 597857131 <- 425734069 -> [gen_answ]
+[ Action ] 18:42:13 - [from: send          ] - 597857131 <- 220158070 -> [lol]
+[ Action ] 18:42:18 - [from: send          ] - 597857131 <- 425734069 -> [gen_answ]
+[ Action ] 18:48:30 - [from: send          ] - 657660561 <- 268846487 -> [gen_answ]
+[ Action ] 18:49:05 - [from: send          ] - 589696502 <- 513798357 -> [gen_answ]
+[ Action ] 18:51:57 - [from: send          ] - 657660561 <- 268846487 -> [chiamata]
+[ Action ] 18:52:16 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 18:52:20 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 18:52:27 - [from: send          ] - 657660561 <- 513798357 -> [gen_answ]
+[ Action ] 18:52:41 - [from: send          ] - 657660561 <- 268846487 -> [gen_answ]
+[ Action ] 18:52:46 - [from: send          ] - 657660561 <- 220158070 -> [gen_answ]
+[ Action ] 19:21:48 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 19:36:04 - [from: send          ] - 657660561 <- 616355656 -> [chiamata]
+[ Action ] 19:38:52 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:39:01 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:39:07 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Warn   ] 19:39:09 - [from: send          ] - Errore nell'invio del media: Bad Request: wrong file id :(
+[ Action ] 19:39:17 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:39:30 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:39:39 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:39:55 - [from: list_risps    ] - 657660561 <- 535017415 -> [list_risposte]
+[ Action ] 19:39:59 - [from: list_risps    ] - 589696502 <- 535017415 -> [list_risposte]
+[ Action ] 19:40:06 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Warn   ] 19:40:21 - [from: send          ] - Errore nell'invio del media: Bad Request: wrong file id :(
+[ Warn   ] 19:40:25 - [from: send          ] - Errore nell'invio del media: Bad Request: wrong file id :(
+[ Warn   ] 19:40:34 - [from: send          ] - Errore nell'invio del media: Bad Request: wrong file id :(
+[ Action ] 19:40:41 - [from: send          ] - 657660561 <- 535017415 -> [chiamata]
+[ Action ] 19:40:49 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:40:52 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:41:09 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:41:11 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:41:16 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Warn   ] 19:41:17 - [from: send          ] - Errore nell'invio del media: Bad Request: wrong file id :(
+[ Action ] 19:41:19 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Action ] 19:41:21 - [from: send          ] - 589696502 <- 535017415 -> [complimenti]
+[ Warn   ] 19:41:22 - [from: send          ] - Errore nell'invio del media: Bad Request: wrong file id :(
+[ Warn   ] 19:41:25 - [from: send          ] - Errore nell'invio del media: Bad Request: wrong file id :(
+[ Action ] 19:50:18 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 19:50:21 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 19:51:19 - [from: send          ] - 589696502 <- 315792909 -> [complimenti]
+[ Action ] 19:53:08 - [from: send          ] - 589696502 <- 315792909 -> [complimenti]
+[ Action ] 19:55:36 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:55:49 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:56:22 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:56:31 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:56:32 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:56:39 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:56:39 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:56:44 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:56:45 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:56:48 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:56:51 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 19:57:01 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:57:08 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 19:57:08 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 20:01:10 - [from: send          ] - 657660561 <- 220158070 -> [diomerda]
+[ Action ] 20:01:50 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 20:01:51 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 20:02:38 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 20:02:39 - [from: send          ] - 657910772 <- 240566977 -> [None]
+[ Action ] 20:02:46 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 20:03:30 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 20:03:37 - [from: send          ] - 657910772 <- 240566977 -> [gen_answ]
+[ Action ] 20:03:44 - [from: send          ] - 657910772 <- 535017415 -> [saluti]
+[ Action ] 20:03:58 - [from: send          ] - 657910772 <- 535017415 -> [gen_answ]
+[ Action ] 20:05:01 - [from: send          ] - 657910772 <- 535017415 -> [saluti]
+[ Action ] 20:06:33 - [from: send          ] - 657660561 <- 535017415 -> [xd]
+[ Action ] 20:07:12 - [from: send          ] - 680545552 <- 535017415 -> [gen_answ]
+[ Action ] 20:07:21 - [from: send          ] - 589696502 <- 513798357 -> [chiamata]
+[ Action ] 20:07:42 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 20:07:46 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 20:07:47 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 20:13:05 - [from: send          ] - 589696502 <- 535017415 -> [gen_answ]
+[ Action ] 21:22:21 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 21:35:16 - [from: send          ] - 657660561 <- 240566977 -> [chiamata]
+[ Action ] 21:35:28 - [from: send          ] - 657660561 <- 240566977 -> [xd]
+[ Action ] 21:35:46 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 21:35:47 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 21:35:47 - [from: send          ] - 680545552 <- 535017415 -> [None]
+[ Action ] 21:35:57 - [from: send          ] - 680545552 <- 423405815 -> [gen_answ]
+[ Action ] 21:36:17 - [from: send          ] - 680545552 <- 240566977 -> [potassio]
+[ Action ] 21:36:17 - [from: send          ] - 657660561 <- 240566977 -> [potassio]
+[ Action ] 21:36:17 - [from: send          ] - 589696502 <- 240566977 -> [potassio]
+[ Action ] 21:36:48 - [from: send          ] - 657660561 <- 220158070 -> [tua zia è morta]
+[ Action ] 21:49:23 - [from: send          ] - 657660561 <- 547692299 -> [ringraziamenti]
+[ Action ] 22:00:03 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Info   ] 22:14:06 - [from: <module>      ] - Starting Kitsu, version 3.0.
+[ Debug  ] 22:14:06 - [from: attach_bot    ] - Passed a list, iterating...
+[ Debug  ] 22:14:06 - [from: attach_bot    ] - Finished iterating tokens!
+[ Action ] 22:16:30 - [from: send          ] - 657660561 <- 220158070 -> [saluta]
+[ Action ] 22:16:43 - [from: send          ] - 657660561 <- 220158070 -> [che ne pensi]
+[ Action ] 22:16:46 - [from: send          ] - 680545552 <- 423405815 -> [gen_answ]
+[ Action ] 22:16:51 - [from: send          ] - 657660561 <- 220158070 -> [che ne pensi]
+[ Action ] 22:17:02 - [from: send          ] - 657660561 <- 220158070 -> [che ne pensi]
+[ Action ] 22:17:03 - [from: send          ] - 680545552 <- 423405815 -> [gen_answ]
+[ Action ] 22:17:06 - [from: send          ] - 657660561 <- 220158070 -> [che ne pensi]
+[ Action ] 22:17:20 - [from: send          ] - 657660561 <- 423405815 -> [che ne pensi]
+[ Action ] 22:17:24 - [from: send          ] - 657660561 <- 423405815 -> [gen_answ]
+[ Action ] 22:18:07 - [from: send          ] - 657660561 <- 329069328 -> [ringraziamenti]
+[ Action ] 22:18:18 - [from: send          ] - 657660561 <- 329069328 -> [gen_answ]
+[ Action ] 22:18:56 - [from: send          ] - 657660561 <- 220158070 -> [che ne pensi]
+[ Action ] 22:19:15 - [from: send          ] - 657660561 <- 220158070 -> [cosa ne pensi]
+[ Action ] 22:23:10 - [from: send          ] - 657660561 <- 329069328 -> [gen_answ]
+[ Action ] 22:28:15 - [from: send          ] - 657660561 <- 181032218 -> [porca puttana. menomale che mio padre, un secondo prima di aprire la chat, si è alzato dal divano]
+[ Action ] 22:30:28 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 22:43:57 - [from: send          ] - 589696502 <- 513798357 -> [gen_answ]
+[ Action ] 22:43:59 - [from: send          ] - 657660561 <- 547692299 -> [kenny ti amo]
+[ Action ] 22:59:21 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 22:59:58 - [from: send          ] - 680545552 <- 181032218 -> [k]
+[ Action ] 23:00:05 - [from: send          ] - 589696502 <- 181032218 -> [potassio]
+[ Action ] 23:00:05 - [from: send          ] - 657660561 <- 181032218 -> [potassio]
+[ Action ] 23:00:05 - [from: send          ] - 680545552 <- 181032218 -> [potassio]
+[ Action ] 23:00:16 - [from: send          ] - 657660561 <- 181032218 -> [amare]
+[ Action ] 23:02:57 - [from: send          ] - 597857131 <- 535017415 -> [saluti]
+[ Action ] 23:06:26 - [from: send          ] - 597857131 <- 181032218 -> [rip]
