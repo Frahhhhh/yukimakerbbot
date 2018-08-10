@@ -25,7 +25,7 @@ f.close()
 
 # Here you can set how many bots an user can have
 limits = {
-    535017415: 4,  # ID, count
+    535017415: 5,  # ID, count
 }
 
 
